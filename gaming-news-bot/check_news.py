@@ -28,7 +28,7 @@ GAME_CONFIGS = {
             'https://www.gamesradar.com/tag/call-of-duty/feed/'
         ],
         'keywords': ['call of duty', 'cod', 'warzone', 'modern warfare', 'black ops'],
-        'color': 65280,  # Green
+        'color': 16744192,  # Orange
         'icon': '🎮',
         'max_posts_per_run': 2
     },
@@ -58,7 +58,7 @@ GAME_CONFIGS = {
         ],
         'keywords': ['battlefield 6', 'battlefield', 'bf6', 'dice'],
         'color': 16744192,  # Orange
-        'icon': '⚔️',
+        'icon': '🪖',
         'max_posts_per_run': 2
     },
     'arc_raiders': {
@@ -70,8 +70,8 @@ GAME_CONFIGS = {
             'https://gamepur.com/feed/'
         ],
         'keywords': ['arc raiders', 'embark studios', 'arcraiders'],
-        'color': 10174902,  # Purple
-        'icon': '🤖',
+        'color': 10126617,  # Purple
+        'icon': '🎮',
         'max_posts_per_run': 1
     }
 }
@@ -79,27 +79,19 @@ GAME_CONFIGS = {
 class NewsChecker:
     def __init__(self, game_name):
         self.game_name = game_name
-        self.config = GAME_CONFIGS[game_name]
+        self.game_config = GAME_CONFIGS[game_name]
         self.webhook_url = os.environ.get('DISCORD_WEBHOOK')
         self.data_dir = Path('data')
-        self.log_dir = Path('logs')
-        self.posted_file = self.data_dir / 'posted_articles.json'
-        
-        # Create directories
         self.data_dir.mkdir(exist_ok=True)
-        self.log_dir.mkdir(exist_ok=True)
-        
-        # Load posted articles
+        self.posted_file = self.data_dir / 'posted_articles.json'
         self.posted_articles = self.load_posted_articles()
         
-        # Setup logging
-        self.log_file = self.log_dir / f"{game_name}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
-    
     def log(self, message):
         """Log message to file and console"""
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         log_message = f"[{timestamp}] {message}"
         print(log_message)
+        
         with open(self.log_file, 'a') as f:
             f.write(log_message + '\n')
     
@@ -109,7 +101,7 @@ class NewsChecker:
             try:
                 with open(self.posted_file, 'r') as f:
                     data = json.load(f)
-                    return data.get(self.game_name, set())
+                return data.get(self.game_name, set())
             except:
                 return set()
         return set()
@@ -131,8 +123,6 @@ class NewsChecker:
         # Save back
         with open(self.posted_file, 'w') as f:
             json.dump(all_data, f, indent=2)
-        
-        self.log(f"Saved {len(self.posted_articles)} posted articles")
     
     def clean_text(self, text):
         """Clean HTML and format text"""
@@ -148,7 +138,7 @@ class NewsChecker:
         # Remove extra whitespace
         text = ' '.join(text.split())
         
-        # Truncate
+        # Truncate if needed
         if len(text) > 200:
             text = text[:197] + "..."
         
@@ -160,14 +150,14 @@ class NewsChecker:
         
         # Special handling for Arc Raiders - needs exact match
         if self.game_name == 'arc_raiders':
-            return any(keyword in text for keyword in self.config['keywords'])
+            return any(keyword in text for keyword in self.game_config['keywords'])
         
         # For other games, check keywords
-        return any(keyword in text for keyword in self.config['keywords'])
+        return any(keyword in text for keyword in self.game_config['keywords'])
     
     def generate_article_id(self, title, url):
         """Generate unique ID for article"""
-        content = f"{title}_{url}_{self.game_name}"
+        content = f"{title}_{url}"
         return hashlib.md5(content.encode()).hexdigest()
     
     def fetch_feed(self, feed_url):
@@ -176,7 +166,7 @@ class NewsChecker:
             self.log(f"Fetching feed: {feed_url}")
             
             # Add timeout
-            feed = feedparser.parse(feed_url, timeout=10)
+            feed = feedparser.parse(feed_url)
             
             if feed.bozo:
                 self.log(f"Feed error: {feed.bozo_exception}")
@@ -194,10 +184,6 @@ class NewsChecker:
                 
                 # Skip if already posted
                 if article_id in self.posted_articles:
-                    continue
-                
-                # Check relevance
-                if not self.is_relevant(title, description):
                     continue
                 
                 articles.append({
@@ -219,21 +205,30 @@ class NewsChecker:
     def post_to_discord(self, article):
         """Post article to Discord webhook"""
         if not self.webhook_url:
-            self.log("No webhook URL provided!")
+            self.log("ERROR: No Discord webhook URL set!")
+            self.log("Please set DISCORD_WEBHOOK environment variable")
             return False
+        
+        if self.webhook_url == "TEST_MODE":
+            self.log(f"TEST MODE - Would post: {article['title']}")
+            return True
         
         try:
             # Create embed
             embed = {
-                'title': f"{self.config['icon']} {article['title']}",
+                'title': f"{self.game_config['icon']} {article['title']}",
                 'url': article['url'],
                 'description': article['description'],
-                'color': self.config['color'],
+                'color': self.game_config['color'],
                 'fields': [
-                    {'name': 'Source', 'value': article['source'][:100], 'inline': True}
+                    {
+                        'name': 'Source',
+                        'value': article['source'][:100],
+                        'inline': True
+                    }
                 ],
                 'footer': {
-                    'text': f"{self.config['name']} News • GitHub Actions Bot"
+                    'text': f"Gaming News Bot"
                 },
                 'timestamp': datetime.utcnow().isoformat()
             }
@@ -263,7 +258,7 @@ class NewsChecker:
     
     def check_news(self):
         """Main function to check news and post"""
-        self.log(f"Starting news check for {self.config['name']}")
+        self.log(f"Starting news check for {self.game_config['name']}")
         
         if not self.webhook_url:
             self.log("ERROR: No Discord webhook URL set!")
@@ -273,16 +268,10 @@ class NewsChecker:
         all_articles = []
         
         # Fetch from all feeds
-        for feed_url in self.config['feeds']:
+        for feed_url in self.game_config['feeds']:
             articles = self.fetch_feed(feed_url)
             all_articles.extend(articles)
-            
-            # Small delay between feeds
-            if articles:
-                time.sleep(1)
-        
-        # Sort by published date if available
-        all_articles.sort(key=lambda x: x.get('published', ''), reverse=True)
+            time.sleep(0.5)  # Small delay between feeds
         
         # Remove duplicates based on title similarity
         unique_articles = []
@@ -302,42 +291,61 @@ class NewsChecker:
                 unique_articles.append(article)
                 seen_titles.append(title_words)
         
+        # Check relevance
+        if not self.is_relevant(title, description):
+            continue
+        
+        # Sort by published date if available
+        all_articles.sort(key=lambda x: x.get('published', ''), reverse=True)
+        
+        # Remove duplicates based on title similarity
+        unique_articles = []
+        seen_titles = set()
+        
+        for article in all_articles:
+            # Simple duplicate check
+            title_words = set(article['title'].lower().split())
+            is_duplicate = False
+            
+            for seen in seen_titles:
+                if len(title_words.intersection(seen)) > len(title_words) * 0.7:
+                    is_duplicate = True
+                    break
+            
+            if not is_duplicate:
+                unique_articles.append(article)
+                seen_titles.add(frozenset(title_words))
+        
         self.log(f"Found {len(unique_articles)} unique new articles")
         
         # Post articles (limited per run)
         posted_count = 0
-        max_posts = self.config['max_posts_per_run']
+        max_posts = self.game_config.get('max_posts_per_run', 2)
         
         for article in unique_articles[:max_posts]:
             if self.post_to_discord(article):
                 posted_count += 1
-                # Delay between posts to avoid rate limiting
-                if posted_count < max_posts:
-                    time.sleep(2)
+                time.sleep(2)  # Delay between posts to avoid rate limiting
         
         self.log(f"Posted {posted_count} articles")
         
         # Save posted articles
         self.save_posted_articles()
-        
-        # Summary
-        remaining = len(unique_articles) - posted_count
-        if remaining > 0:
-            self.log(f"{remaining} articles queued for next run")
+        self.log(f"Saved {len(self.posted_articles)} posted articles")
 
 def main():
     parser = argparse.ArgumentParser(description='Check gaming news and post to Discord')
     parser.add_argument('--game', required=True, choices=GAME_CONFIGS.keys(),
-                       help='Game to check news for')
+                      help='Game to check news for')
     parser.add_argument('--test', action='store_true',
-                       help='Test mode - don\'t post to Discord')
+                      help='Test mode - don\'t post to Discord')
     
     args = parser.parse_args()
     
     # Test mode
     if args.test:
-        print(f"TEST MODE - Checking {args.game}")
         os.environ['DISCORD_WEBHOOK'] = 'TEST_MODE'
+        print(f"TEST MODE - Checking {args.game}")
     
     checker = NewsChecker(args.game)
     checker.check_news()
