@@ -85,6 +85,9 @@ class NewsChecker:
         self.data_dir.mkdir(exist_ok=True)
         self.posted_file = self.data_dir / 'posted_articles.json'
         self.posted_articles = self.load_posted_articles()
+        self.log_dir = Path('logs')
+        self.log_dir.mkdir(exist_ok=True)
+        self.log_file = self.log_dir / f"{game_name}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
         
     def log(self, message):
         """Log message to file and console"""
@@ -101,7 +104,7 @@ class NewsChecker:
             try:
                 with open(self.posted_file, 'r') as f:
                     data = json.load(f)
-                return data.get(self.game_name, set())
+                return set(data.get(self.game_name, []))
             except:
                 return set()
         return set()
@@ -165,7 +168,7 @@ class NewsChecker:
         try:
             self.log(f"Fetching feed: {feed_url}")
             
-            # Add timeout
+            # Parse feed without timeout parameter
             feed = feedparser.parse(feed_url)
             
             if feed.bozo:
@@ -278,6 +281,10 @@ class NewsChecker:
         seen_titles = []
         
         for article in all_articles:
+            # Check relevance first
+            if not self.is_relevant(article['title'], article['description']):
+                continue
+                
             # Simple duplicate check
             title_words = set(article['title'].lower().split())
             is_duplicate = False
@@ -291,30 +298,8 @@ class NewsChecker:
                 unique_articles.append(article)
                 seen_titles.append(title_words)
         
-        # Check relevance
-        if not self.is_relevant(title, description):
-            continue
-        
         # Sort by published date if available
-        all_articles.sort(key=lambda x: x.get('published', ''), reverse=True)
-        
-        # Remove duplicates based on title similarity
-        unique_articles = []
-        seen_titles = set()
-        
-        for article in all_articles:
-            # Simple duplicate check
-            title_words = set(article['title'].lower().split())
-            is_duplicate = False
-            
-            for seen in seen_titles:
-                if len(title_words.intersection(seen)) > len(title_words) * 0.7:
-                    is_duplicate = True
-                    break
-            
-            if not is_duplicate:
-                unique_articles.append(article)
-                seen_titles.add(frozenset(title_words))
+        unique_articles.sort(key=lambda x: x.get('published', ''), reverse=True)
         
         self.log(f"Found {len(unique_articles)} unique new articles")
         
