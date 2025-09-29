@@ -1,0 +1,13 @@
+name: Gaming News Bot
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo "Testing workflow"
+      - run: ls -la
