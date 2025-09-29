@@ -1,0 +1,18 @@
+name: Gaming News Checker
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+jobs:
+  check-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - run: cd gaming-news-bot && pip install -r requirements.txt
+      - run: cd gaming-news-bot && DISCORD_WEBHOOK=${{ secrets.DISCORD_WEBHOOK_COD }} python check_news.py --game cod || true
+      - run: cd gaming-news-bot && DISCORD_WEBHOOK=${{ secrets.DISCORD_WEBHOOK_GTA6 }} python check_news.py --game gta6 || true
+      - run: cd gaming-news-bot && DISCORD_WEBHOOK=${{ secrets.DISCORD_WEBHOOK_BF6 }} python check_news.py --game bf6 || true
+      - run: cd gaming-news-bot && DISCORD_WEBHOOK=${{ secrets.DISCORD_WEBHOOK_ARC }} python check_news.py --game arc_raiders || true
