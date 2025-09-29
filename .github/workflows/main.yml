@@ -9,19 +9,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: pip install feedparser requests
-      - run: python check_news.py --game cod || true
+      
+      - name: Install dependencies
+        run: pip install feedparser requests
+      
+      - name: Check all games
+        working-directory: gaming-news-bot
+        run: |
+          python check_news.py --game cod || echo "COD check failed"
+          python check_news.py --game gta6 || echo "GTA6 check failed"
+          python check_news.py --game bf6 || echo "BF6 check failed"
+          python check_news.py --game arc_raiders || echo "Arc Raiders check failed"
         env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_COD }}
-      - run: python check_news.py --game gta6 || true
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_GTA6 }}
-      - run: python check_news.py --game bf6 || true
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_BF6 }}
-      - run: python check_news.py --game arc_raiders || true
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_ARC }}
+          DISCORD_WEBHOOK_COD: ${{ secrets.DISCORD_WEBHOOK_COD }}
+          DISCORD_WEBHOOK_GTA6: ${{ secrets.DISCORD_WEBHOOK_GTA6 }}
+          DISCORD_WEBHOOK_BF6: ${{ secrets.DISCORD_WEBHOOK_BF6 }}
+          DISCORD_WEBHOOK_ARC: ${{ secrets.DISCORD_WEBHOOK_ARC }}
