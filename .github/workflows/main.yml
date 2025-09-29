@@ -33,8 +33,7 @@ jobs:
       
       - name: Install Dependencies
         working-directory: gaming-news-bot
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
       
       - name: Check COD News
         working-directory: gaming-news-bot
@@ -73,8 +72,11 @@ jobs:
           cd gaming-news-bot
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/posted_articles.json 2>/dev/null || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update posted articles [skip ci]"
+          git add data/posted_articles.json data/bot_metrics.json data/failed_posts.json 2>/dev/null || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update bot data [skip ci]"
+          cd ..
+          git add . 2>/dev/null || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update bot data [skip ci]"
       
       - name: Push Changes
         uses: ad-m/github-push-action@master
