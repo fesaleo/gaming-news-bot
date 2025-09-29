@@ -1,11 +1,8 @@
 name: Gaming News Checker
-
 on:
   schedule:
-    # Run every 15 minutes
     - cron: '*/15 * * * *'
   
-  # Allow manual trigger from GitHub UI
   workflow_dispatch:
     inputs:
       check_all:
@@ -19,63 +16,65 @@ jobs:
     
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
       
       - name: Cache Dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
       
       - name: Install Dependencies
+        working-directory: gaming-news-bot
         run: |
           pip install -r requirements.txt
       
       - name: Check COD News
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('00,15,30,45', format('{0:02d}', github.event.schedule.minute)))
+        working-directory: gaming-news-bot
         env:
-          DISCORD_WEBHOOK: https://discord.com/api/webhooks/1422280880193273888/DhWRDX8c8VnjJvNTquxxHQAOV7bH_kPnGY7W1I9tMzK7hiyJ05Fs_c7jpyX1YqOGtl_h
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_COD }}
           GAME_NAME: cod
         run: python check_news.py --game cod
         continue-on-error: true
       
       - name: Check GTA 6 News  
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('05,20,35,50', format('{0:02d}', github.event.schedule.minute)))
+        working-directory: gaming-news-bot
         env:
-          DISCORD_WEBHOOK: https://discord.com/api/webhooks/1422281375314215004/sqjss5APnpZKdc-AbXDyQs53tHjPKCruczbgpjqRzvZ5q1fMV4frve55LkwzoB5oGxAA
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_GTA6 }}
           GAME_NAME: gta6
         run: python check_news.py --game gta6
         continue-on-error: true
       
       - name: Check Battlefield 6 News
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('10,25,40,55', format('{0:02d}', github.event.schedule.minute)))
+        working-directory: gaming-news-bot
         env:
-          DISCORD_WEBHOOK: https://discord.com/api/webhooks/1422281076906266745/mFnv_Lpf21rxyveV4e0V2mdcj5oo3RXsOiNS-WdaMmLSwfRl6yHIn06ZaI7RhwTxeQrz
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_BF6 }}
           GAME_NAME: bf6
         run: python check_news.py --game bf6
         continue-on-error: true
       
       - name: Check Arc Raiders News
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule')
+        working-directory: gaming-news-bot
         env:
-          DISCORD_WEBHOOK: https://discord.com/api/webhooks/1422281219369865297/QjQkR7NtUhKoqyTQdLujF0Il0MK5-Je7RT_H8IL1KBuUtkBRn-d9jve3p3oC1t17_tLQ
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_ARC }}
           GAME_NAME: arc_raiders
         run: python check_news.py --game arc_raiders
         continue-on-error: true
       
       - name: Commit Posted Articles
         run: |
+          cd gaming-news-bot
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/posted_articles.json || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update posted articles [skip ci]"
+          git add data/posted_articles.json data/bot_metrics.json data/failed_posts.json 2>/dev/null || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update bot data [skip ci]"
       
       - name: Push Changes
         uses: ad-m/github-push-action@master
@@ -86,8 +85,8 @@ jobs:
       
       - name: Upload Logs
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: news-checker-logs
-          path: logs/
+          path: gaming-news-bot/logs/
           retention-days: 7
