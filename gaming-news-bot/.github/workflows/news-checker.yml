@@ -1,0 +1,93 @@
+name: Gaming News Checker
+
+on:
+  schedule:
+    # Run every 15 minutes
+    - cron: '*/15 * * * *'
+  
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      check_all:
+        description: 'Check all games immediately'
+        required: false
+        default: 'true'
+
+jobs:
+  check-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Cache Dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+      
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Check COD News
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('00,15,30,45', format('{0:02d}', github.event.schedule.minute)))
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_COD }}
+          GAME_NAME: cod
+        run: python check_news.py --game cod
+        continue-on-error: true
+      
+      - name: Check GTA 6 News  
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('05,20,35,50', format('{0:02d}', github.event.schedule.minute)))
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_GTA6 }}
+          GAME_NAME: gta6
+        run: python check_news.py --game gta6
+        continue-on-error: true
+      
+      - name: Check Battlefield 6 News
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('10,25,40,55', format('{0:02d}', github.event.schedule.minute)))
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_BF6 }}
+          GAME_NAME: bf6
+        run: python check_news.py --game bf6
+        continue-on-error: true
+      
+      - name: Check Arc Raiders News
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule')
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_ARC }}
+          GAME_NAME: arc_raiders
+        run: python check_news.py --game arc_raiders
+        continue-on-error: true
+      
+      - name: Commit Posted Articles
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/posted_articles.json || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update posted articles [skip ci]"
+      
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+        continue-on-error: true
+      
+      - name: Upload Logs
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: news-checker-logs
+          path: logs/
+          retention-days: 7
