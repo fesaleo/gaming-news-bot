@@ -2,10 +2,7 @@ name: Gaming News Checker
 
 on:
   schedule:
-    # Run every 15 minutes
     - cron: '*/15 * * * *'
-  
-  # Allow manual trigger from GitHub UI
   workflow_dispatch:
     inputs:
       check_all:
@@ -39,7 +36,6 @@ jobs:
           pip install -r requirements.txt
       
       - name: Check COD News
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('00,15,30,45', format('{0:02d}', github.event.schedule.minute)))
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_COD }}
           GAME_NAME: cod
@@ -47,7 +43,6 @@ jobs:
         continue-on-error: true
       
       - name: Check GTA 6 News  
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('05,20,35,50', format('{0:02d}', github.event.schedule.minute)))
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_GTA6 }}
           GAME_NAME: gta6
@@ -55,7 +50,6 @@ jobs:
         continue-on-error: true
       
       - name: Check Battlefield 6 News
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('10,25,40,55', format('{0:02d}', github.event.schedule.minute)))
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_BF6 }}
           GAME_NAME: bf6
@@ -63,7 +57,6 @@ jobs:
         continue-on-error: true
       
       - name: Check Arc Raiders News
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule')
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_ARC }}
           GAME_NAME: arc_raiders
