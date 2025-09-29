@@ -25,7 +25,7 @@ jobs:
           python check_news.py --game bf6 || echo "BF6 check failed"
           python check_news.py --game arc_raiders || echo "Arc Raiders check failed"
         env:
-          DISCORD_WEBHOOK_COD: ${{ secrets.DISCORD_WEBHOOK_COD }}
-          DISCORD_WEBHOOK_GTA6: ${{ secrets.DISCORD_WEBHOOK_GTA6 }}
-          DISCORD_WEBHOOK_BF6: ${{ secrets.DISCORD_WEBHOOK_BF6 }}
-          DISCORD_WEBHOOK_ARC: ${{ secrets.DISCORD_WEBHOOK_ARC }}
+          DISCORD_WEBHOOK_COD: https://discord.com/api/webhooks/1422280880193273888/DhWRDX8c8VnjJvNTquxxHQAOV7bH_kPnGY7W1I9tMzK7hiyJ05Fs_c7jpyX1YqOGtl_h
+          DISCORD_WEBHOOK_GTA6: https://discord.com/api/webhooks/1422281375314215004/sqjss5APnpZKdc-AbXDyQs53tHjPKCruczbgpjqRzvZ5q1fMV4frve55LkwzoB5oGxAA
+          DISCORD_WEBHOOK_BF6: https://discord.com/api/webhooks/1422281076906266745/mFnv_Lpf21rxyveV4e0V2mdcj5oo3RXsOiNS-WdaMmLSwfRl6yHIn06ZaI7RhwTxeQrz
+          DISCORD_WEBHOOK_ARC: https://discord.com/api/webhooks/1422281219369865297/QjQkR7NtUhKoqyTQdLujF0Il0MK5-Je7RT_H8IL1KBuUtkBRn-d9jve3p3oC1t17_tLQ
