@@ -22,10 +22,10 @@ GAME_CONFIGS = {
     'cod': {
         'name': 'Call of Duty',
         'feeds': [
-            'https://charlieintel.com/feed/',
-            'https://www.reddit.com/r/ModernWarfareIII/.rss',
-            'https://www.ign.com/games/call-of-duty/rss',
-            'https://www.gamesradar.com/tag/call-of-duty/feed/'
+            'https://www.callofduty.com/blog.rss',  # Official COD blog
+            'https://charlieintel.com/feed/',  # COD specialist site
+            'https://www.dexerto.com/call-of-duty/feed',  # Gaming news
+            'https://mp1st.com/feed'  # Multiplayer focused
         ],
         'keywords': ['call of duty', 'cod', 'warzone', 'modern warfare', 'black ops'],
         'color': 16744192,  # Orange
@@ -35,13 +35,10 @@ GAME_CONFIGS = {
     'gta6': {
         'name': 'GTA 6',
         'feeds': [
-            'https://www.reddit.com/r/GTA6/.rss',
-            'https://www.reddit.com/r/GrandTheftAutoVI/.rss',
-            'https://www.rockstargames.com/newswire.xml',
-            'https://rockstarintel.com/feed',
-            'https://www.ign.com/games/grand-theft-auto-vi/rss',
-            'https://www.gamesradar.com/tag/gta-6/feed/',
-            'https://kotaku.com/tag/grand-theft-auto/rss'
+            'https://www.rockstargames.com/newswire.xml',  # Official Rockstar
+            'https://rockstarintel.com/feed',  # GTA specialist site
+            'https://www.dexerto.com/gta/feed',  # Gaming news
+            'https://kotaku.com/tag/grand-theft-auto/rss'  # Gaming news
         ],
         'keywords': ['gta 6', 'gta vi', 'grand theft auto 6', 'grand theft auto vi', 'gta6', 'gtavi'],
         'color': 866614,  # Dark Green
@@ -51,10 +48,10 @@ GAME_CONFIGS = {
     'bf6': {
         'name': 'Battlefield 6',
         'feeds': [
-            'https://www.reddit.com/r/Battlefield/.rss',
-            'https://insider-gaming.com/tag/battlefield/feed/',
-            'https://gameranx.com/tag/battlefield/feed/',
-            'https://comicbook.com/tag/battlefield/feed/'
+            'https://www.ea.com/games/battlefield/news.rss',  # Official EA
+            'https://insider-gaming.com/tag/battlefield/feed/',  # Gaming insider
+            'https://gameranx.com/tag/battlefield/feed/',  # Gaming news
+            'https://www.dexerto.com/battlefield/feed'  # Gaming news
         ],
         'keywords': ['battlefield 6', 'battlefield', 'bf6', 'dice'],
         'color': 16744192,  # Orange
@@ -64,10 +61,10 @@ GAME_CONFIGS = {
     'arc_raiders': {
         'name': 'Arc Raiders',
         'feeds': [
-            'https://www.reddit.com/r/ARCRaiders/.rss',
-            'https://store.steampowered.com/news/app/1808500',
-            'https://gamingintel.com/feed/',
-            'https://gamepur.com/feed/'
+            'https://www.embark-studios.com/feed',  # Official developer
+            'https://store.steampowered.com/news/app/1808500',  # Steam news
+            'https://www.pcgamer.com/rss/',  # PC gaming news
+            'https://www.pcgamesn.com/feed'  # PC gaming news
         ],
         'keywords': ['arc raiders', 'embark studios', 'arcraiders'],
         'color': 10126617,  # Purple
