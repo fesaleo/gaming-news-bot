@@ -1,39 +1,93 @@
-name: Gaming News Bot
+name: Gaming News Checker
+
 on:
-  workflow_dispatch:
   schedule:
+    # Run every 15 minutes
     - cron: '*/15 * * * *'
+  
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      check_all:
+        description: 'Check all games immediately'
+        required: false
+        default: 'true'
 
 jobs:
   check-news:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: pip install feedparser requests
+      
+      - name: Cache Dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+      
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
       
       - name: Check COD News
-        working-directory: gaming-news-bot
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('00,15,30,45', format('{0:02d}', github.event.schedule.minute)))
         env:
           DISCORD_WEBHOOK: https://discord.com/api/webhooks/1422280880193273888/DhWRDX8c8VnjJvNTquxxHQAOV7bH_kPnGY7W1I9tMzK7hiyJ05Fs_c7jpyX1YqOGtl_h
+          GAME_NAME: cod
         run: python check_news.py --game cod
+        continue-on-error: true
       
-      - name: Check GTA6 News
-        working-directory: gaming-news-bot
+      - name: Check GTA 6 News  
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('05,20,35,50', format('{0:02d}', github.event.schedule.minute)))
         env:
           DISCORD_WEBHOOK: https://discord.com/api/webhooks/1422281375314215004/sqjss5APnpZKdc-AbXDyQs53tHjPKCruczbgpjqRzvZ5q1fMV4frve55LkwzoB5oGxAA
+          GAME_NAME: gta6
         run: python check_news.py --game gta6
+        continue-on-error: true
       
-      - name: Check BF6 News
-        working-directory: gaming-news-bot
+      - name: Check Battlefield 6 News
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && contains('10,25,40,55', format('{0:02d}', github.event.schedule.minute)))
         env:
           DISCORD_WEBHOOK: https://discord.com/api/webhooks/1422281076906266745/mFnv_Lpf21rxyveV4e0V2mdcj5oo3RXsOiNS-WdaMmLSwfRl6yHIn06ZaI7RhwTxeQrz
+          GAME_NAME: bf6
         run: python check_news.py --game bf6
+        continue-on-error: true
       
-      - name: Check Arc News
-        working-directory: gaming-news-bot
+      - name: Check Arc Raiders News
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule')
         env:
           DISCORD_WEBHOOK: https://discord.com/api/webhooks/1422281219369865297/QjQkR7NtUhKoqyTQdLujF0Il0MK5-Je7RT_H8IL1KBuUtkBRn-d9jve3p3oC1t17_tLQ
+          GAME_NAME: arc_raiders
         run: python check_news.py --game arc_raiders
+        continue-on-error: true
+      
+      - name: Commit Posted Articles
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/posted_articles.json || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update posted articles [skip ci]"
+      
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+        continue-on-error: true
+      
+      - name: Upload Logs
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: news-checker-logs
+          path: logs/
+          retention-days: 7
