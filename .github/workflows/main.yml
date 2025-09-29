@@ -1,94 +1,30 @@
 name: Gaming News Checker
 on:
-  schedule:
-    - cron: '*/15 * * * *'
-  
   workflow_dispatch:
-    inputs:
-      check_all:
-        description: 'Check all games immediately'
-        required: false
-        default: 'true'
+  schedule:
+    - cron: "*/15 * * * *"
 
 jobs:
   check-news:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: "3.10"
       
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-      
-      - name: Cache Dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('gaming-news-bot/requirements.txt') }}
-      
-      - name: Install Dependencies
-        working-directory: gaming-news-bot
-        run: pip install -r requirements.txt
-      
-      - name: Check COD News
-        working-directory: gaming-news-bot
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_COD }}
-          GAME_NAME: cod
-        run: python check_news.py --game cod
-        continue-on-error: true
-      
-      - name: Check GTA 6 News  
-        working-directory: gaming-news-bot
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_GTA6 }}
-          GAME_NAME: gta6
-        run: python check_news.py --game gta6
-        continue-on-error: true
-      
-      - name: Check Battlefield 6 News
-        working-directory: gaming-news-bot
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_BF6 }}
-          GAME_NAME: bf6
-        run: python check_news.py --game bf6
-        continue-on-error: true
-      
-      - name: Check Arc Raiders News
-        working-directory: gaming-news-bot
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_ARC }}
-          GAME_NAME: arc_raiders
-        run: python check_news.py --game arc_raiders
-        continue-on-error: true
-      
-      - name: Commit Posted Articles
+      - name: Install and Run
         run: |
           cd gaming-news-bot
+          pip install -r requirements.txt
+          DISCORD_WEBHOOK=${{ secrets.DISCORD_WEBHOOK_COD }} python check_news.py --game cod || true
+          DISCORD_WEBHOOK=${{ secrets.DISCORD_WEBHOOK_GTA6 }} python check_news.py --game gta6 || true
+          DISCORD_WEBHOOK=${{ secrets.DISCORD_WEBHOOK_BF6 }} python check_news.py --game bf6 || true
+          DISCORD_WEBHOOK=${{ secrets.DISCORD_WEBHOOK_ARC }} python check_news.py --game arc_raiders || true
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/posted_articles.json data/bot_metrics.json data/failed_posts.json 2>/dev/null || true
+          git add data/*.json 2>/dev/null || true
           git diff --quiet && git diff --staged --quiet || git commit -m "Update bot data [skip ci]"
-          cd ..
-          git add . 2>/dev/null || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update bot data [skip ci]"
-      
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-        continue-on-error: true
-      
-      - name: Upload Logs
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: news-checker-logs-${{ github.run_number }}
-          path: gaming-news-bot/logs/
-          retention-days: 7
+          git push || true
