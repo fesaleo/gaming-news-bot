@@ -29,7 +29,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('gaming-news-bot/requirements.txt') }}
       
       - name: Install Dependencies
         working-directory: gaming-news-bot
@@ -73,8 +73,8 @@ jobs:
           cd gaming-news-bot
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/posted_articles.json data/bot_metrics.json data/failed_posts.json 2>/dev/null || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update bot data [skip ci]"
+          git add data/posted_articles.json 2>/dev/null || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update posted articles [skip ci]"
       
       - name: Push Changes
         uses: ad-m/github-push-action@master
@@ -87,6 +87,6 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: news-checker-logs
+          name: news-checker-logs-${{ github.run_number }}
           path: gaming-news-bot/logs/
           retention-days: 7
