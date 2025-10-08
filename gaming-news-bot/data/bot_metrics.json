@@ -1,30 +1,30 @@
 {
   "cod": {
     "total_posted": 6,
-    "total_failed": 707,
-    "total_found": 1699,
-    "last_run": "2025-10-08T09:05:54.597609",
-    "runs": 421
+    "total_failed": 709,
+    "total_found": 1703,
+    "last_run": "2025-10-08T09:37:22.656033",
+    "runs": 422
   },
   "gta6": {
     "total_posted": 5,
     "total_failed": 0,
     "total_found": 5,
-    "last_run": "2025-10-08T09:06:09.320132",
-    "runs": 421
+    "last_run": "2025-10-08T09:37:37.651630",
+    "runs": 422
   },
   "bf6": {
     "total_posted": 5,
     "total_failed": 0,
     "total_found": 5,
-    "last_run": "2025-10-08T09:06:14.742500",
-    "runs": 421
+    "last_run": "2025-10-08T09:37:44.231848",
+    "runs": 422
   },
   "arc_raiders": {
     "total_posted": 7,
     "total_failed": 0,
     "total_found": 7,
-    "last_run": "2025-10-08T09:06:20.047075",
-    "runs": 421
+    "last_run": "2025-10-08T09:37:49.828433",
+    "runs": 422
   }
 }
