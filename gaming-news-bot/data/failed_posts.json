@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "aee4dab7ba66788d51bb4f572dc7af61",
-      "title": "Fan-favorite CoD SMG finally returning in Black Ops 6 Season 6",
-      "url": "https://www.dexerto.com/call-of-duty/fan-favorite-cod-smg-finally-returning-in-black-ops-6-season-6-3263172/",
-      "description": "One of Call of Duty\u2019s most iconic SMGs is finally set to return in Black Ops 6 Season 6 as part of The Haunting Halloween event.",
-      "published": "Tue, 07 Oct 2025 17:07:32 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/09/10/Black-Ops-6-Zombies-skins-carry-forward-to-Black-Ops-7.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 3
-    },
-    {
       "id": "987c4e8af95910913f070062326017e7",
       "title": "Call of Duty: Black Ops 6 and Call of Duty: Warzone Season 6 Preview",
       "url": "https://mp1st.com/news/call-of-duty-black-ops-6-and-call-of-duty-warzone-season-6-preview",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/03/weapons-buffs-nerfs-warzone-black-ops-7-season-1.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "463bd0f16882bd1a2a2871caa8c12345",
+      "title": "Call of Duty: Black Ops 7 New Update 1.87 Ushers in Season 1",
+      "url": "https://mp1st.com/title-updates-and-patches/call-of-duty-black-ops-7-new-update-1-87-season-1",
+      "description": "Having trouble viewing the text? You can always read the original article here: Call of Duty: Black Ops 7 New Update 1.87 Ushers in Season 1 Treyarch\u2019s biggest content drop for a season is live with Season 1 of Call of Duty: Black Ops 7 now live on all platforms. Players can download it as Black ...",
+      "published": "Thu, 04 Dec 2025 19:40:05 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2025/12/Black-Ops-7-weekly-challenges.webp",
+      "relevance_score": 3
     }
   ],
   "gta6": [],
