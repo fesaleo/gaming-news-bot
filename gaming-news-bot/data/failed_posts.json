@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "ce8de7711f41635b67f50800933f204a",
-      "title": "All buffs and nerfs in Black Ops 6 & Warzone Season 6",
-      "url": "https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/",
-      "description": "The Black Ops 6 and Warzone Season 6 update brings meta-changing balancing updates, so here\u2019s every weapon buff and nerf.",
-      "published": "Wed, 08 Oct 2025 22:39:52 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/08/All-buffs-and-nerfs-in-Black-Ops-6-Warzone-Season-6.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "7a5412162549ef71946a118f45d0cc82",
       "title": "Black Ops 7 Beta\u2019s Anti-Cheat Measures Prove Highly Effective, as 98.8% of the Matches Were Cheater-Free by Day 5",
       "url": "https://mp1st.com/news/black-ops-7-betas-anti-cheat-98-8-matches-cheater-free-by-day-5",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2025/12/Black-Ops-7-weekly-challenges.webp",
       "relevance_score": 3
+    },
+    {
+      "id": "1593c47218ff35ccc92ed9a4bc77f920",
+      "title": "Warzone has a new meta AR with insane range & TTK",
+      "url": "https://www.dexerto.com/call-of-duty/warzone-has-a-new-meta-ar-with-insane-range-ttk-3290336/",
+      "description": "Warzone and Black Ops 7 have fully integrated in Season 1, and there\u2019s a new meta Assault Rifle set to dominate BR.",
+      "published": "Fri, 05 Dec 2025 10:56:37 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/05/Warzone-has-a-new-meta-AR-with-insane-range-TTK.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
