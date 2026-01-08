@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "4bf4d079caa6d3920c93683e1f5c3be3",
-      "title": "BioWare Assures Fans Next Mass Effect Still in Development; Hidden Cypher Decoded",
-      "url": "https://mp1st.com/news/bioware-assures-next-mass-effect-in-development-hidden-cypher-decoded",
-      "description": "Having trouble viewing the text? You can always read the original article here: BioWare Assures Fans Next Mass Effect Still in Development; Hidden Cypher Decoded BioWare has given us the latest development update on the next Mass Effect game as part of N7 Day (November 7, get it?). While the game...",
-      "published": "Fri, 07 Nov 2025 22:45:42 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2024/11/mass-effeect-andromeda-600x338.jpeg",
-      "relevance_score": 1
-    },
-    {
       "id": "6375f160b35190f57653ee6b106d2a0a",
       "title": "F1 25 New Update 1.014 Released for Season 4 Data",
       "url": "https://mp1st.com/title-updates-and-patches/f1-25-new-update-1-014-released-for-season-4-data",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/07/All-weapon-buffs-and-nerfs-in-Warzone-Black-Ops-7-Season-1-Reloaded.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "b3bbb6bcb975bf28ad9c792aaa8b7643",
+      "title": "Black Ops 7 players are obsessed with \u201cawesome\u201d Fallout crossover",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-players-are-obsessed-with-awesome-fallout-crossover-3302100/",
+      "description": "Black Ops 7 players are already loving the new Fallout crossover, saying it blows the MW3 version out of the water.",
+      "published": "Thu, 08 Jan 2026 15:49:52 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/08/Black-Ops-7-Fallout-crossover.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
