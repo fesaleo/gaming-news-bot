@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "43628ae3a556451c66d1fcfbd2d5bd38",
-      "title": "Black Ops 7 user reviews plummet as players label it \u201cworst CoD of all time\u201d",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-user-reviews-plummet-as-players-label-it-worst-cod-of-all-time-3283762/",
-      "description": "Black Ops 7 players are bashing it as the \u201cworst CoD of all time\u201d, leaving hundreds of negative reviews as the user score plummets.",
-      "published": "Mon, 17 Nov 2025 00:31:35 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/17/Black-Ops-7-metacritic-user-score.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "ed3b1806707f042a4836272755932998",
       "title": "Black Ops 7 players want overpowered Assault Rifle nerfed into the ground",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-players-want-overpowered-assault-rifle-nerfed-into-the-ground-3283848/",
@@ -498,6 +488,16 @@
       "published": "Wed, 21 Jan 2026 16:36:30 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/21/Warzone-Season-2-update.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "c782b41a39859c3843082bbf5734da4f",
+      "title": "Warzone adding Iron Trials successor alongside Ranked Resurgence",
+      "url": "https://www.dexerto.com/call-of-duty/warzone-adding-iron-trials-successor-alongside-ranked-resurgence-3308724/",
+      "description": "Raven Software has announced a shakeup to competitive Warzone in Season 2, including a new mode to rotate with Resurgence Ranked.",
+      "published": "Fri, 23 Jan 2026 11:48:15 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/23/Warzone-Ranked-Play-Season-2.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
