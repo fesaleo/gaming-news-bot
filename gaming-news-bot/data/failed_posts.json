@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "13a0a760031ff3a4f45fa46496a17647",
-      "title": "Black Ops 7 dev explains aim assist changes with more to come",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-dev-explains-aim-assist-changes-with-more-to-come-3285291/",
-      "description": "Treyarch\u2019s Matt Scronce has provided some insight into the aim assist changes in Black Ops 7, suggesting that there may be further updates to come.",
-      "published": "Thu, 20 Nov 2025 10:28:39 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/14/Kagan-Black-Ops-7.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "1eaac4858b0f9500cf88118372678251",
       "title": "Black Ops 7 devs confirm aim assist & SMG buffs coming soon",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-devs-confirm-aim-assist-smg-buffs-coming-soon-3285698/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/26/Buffed-Warzone-SMG-with-incredible-TTK-is-dominating-Season-1-Reloaded.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
+    },
+    {
+      "id": "dca72c85af31a87ef9068604f5d846f6",
+      "title": "Hytale players turn it into Call of Duty with iconic Black Ops 2 maps",
+      "url": "https://www.dexerto.com/gaming/hytale-players-turn-it-into-call-of-duty-with-iconic-black-ops-2-maps-3310775/",
+      "description": "This custom Hytale server turns the game into an FPS like Call of Duty, complete with some of BO2\u2019s best maps.",
+      "published": "Wed, 28 Jan 2026 15:07:15 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/28/Hytale-Call-of-Duty.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
