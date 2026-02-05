@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "f06422b8194b43d4b29916ea1beefe08",
-      "title": "This must-use Warzone Perk finally counters one-shot Sniper Rifles",
-      "url": "https://www.dexerto.com/call-of-duty/this-must-use-warzone-perk-finally-counters-one-shot-sniper-rifles-3289029/",
-      "description": "The Warzone Season 1 update brings big changes to Perks and Equipment, with one Perk becoming a must-use after a major buff.",
-      "published": "Tue, 02 Dec 2025 11:25:10 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/02/warzone-player-sniping.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "b11ed9c0a50eb9a0f951683cfd715a17",
       "title": "Warzone Season 1 early patch notes: SBMM changes, aim assist nerf & more",
       "url": "https://www.dexerto.com/call-of-duty/warzone-season-1-patch-notes-3289214/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/04/All-buffs-and-nerfs-in-Black-Ops-7-and-Warzone-Season-2.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "d6d35b92ddd418ce9b7c428ae52191a9",
+      "title": "Classic Warzone AR will take over meta after big buff in Season 2",
+      "url": "https://www.dexerto.com/call-of-duty/classic-warzone-ar-will-take-over-meta-after-big-buff-in-season-2-3314828/",
+      "description": "The M15 Mod 0 was hit with a big nerf in Warzone Season 2, but there\u2019s another rifle primed to take its place at the top of the meta.",
+      "published": "Thu, 05 Feb 2026 15:22:27 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/05/Classic-Warzone-AR-is-about-to-take-over-meta.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
