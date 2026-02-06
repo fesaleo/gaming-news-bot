@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "b11ed9c0a50eb9a0f951683cfd715a17",
-      "title": "Warzone Season 1 early patch notes: SBMM changes, aim assist nerf & more",
-      "url": "https://www.dexerto.com/call-of-duty/warzone-season-1-patch-notes-3289214/",
-      "description": "Here are the early patch notes for Warzone\u2019s Season 1 update, where it integrates with Call of Duty: Black Ops 7.",
-      "published": "Wed, 03 Dec 2025 10:05:21 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/03/warzone-season-1-patch-notes.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 3
-    },
-    {
       "id": "259d5af6812c9f0d8383790d4018816f",
       "title": "Warzone Season 1 patch notes: SBMM changes, aim assist nerf & more",
       "url": "https://www.dexerto.com/call-of-duty/warzone-season-1-patch-notes-3289214/",
@@ -498,6 +488,16 @@
       "published": "Thu, 05 Feb 2026 15:22:27 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/05/Classic-Warzone-AR-is-about-to-take-over-meta.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "6e556f92ac62a957e17f048ecfd88377",
+      "title": "Black Ops 7\u2019s new Assault Rifle with bouncing bullets is absolutely broken",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-7s-new-assault-rifle-with-bouncing-bullets-is-absolutely-broken-3315398/",
+      "description": "Black Ops 7 has added a new Assault Rifle with bouncing bullets that\u2019s set to take over the meta in Season 2.",
+      "published": "Fri, 06 Feb 2026 15:01:40 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/06/Black-Ops-7s-new-Assault-Rifle-with-bouncing-bullets-is-absolutely-broken.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
