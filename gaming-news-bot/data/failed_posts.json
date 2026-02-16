@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "042df35110e35ec8a99808e50ac2d04f",
-      "title": "Warzone players call for BO7\u2019s wall jumping to be added permanently",
-      "url": "https://www.dexerto.com/call-of-duty/warzone-players-call-for-bo7s-wall-jumping-to-be-added-permanently-3291381/",
-      "description": "Warzone players want wall jumping from Black Ops 7 added to the game permanently, after a successful trial in an LTM.",
-      "published": "Tue, 09 Dec 2025 10:38:11 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/09/Warzone-players-call-for-BO7s-wall-jumping-to-be-added-permanently.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "479f58eaeb97bc8140d7aecfed19caa6",
       "title": "Activision announces new strategy for Call of Duty\u2019s annual release plan",
       "url": "https://www.dexerto.com/call-of-duty/activision-announces-new-strategy-for-call-of-dutys-annual-release-plan-3291779/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/02/John-Wick-Game-600x338.png",
       "relevance_score": 4
+    },
+    {
+      "id": "25443716e5002da78d4915f9231596ee",
+      "title": "Black Ops 7\u2019s newest gun brings back hated meta",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-7s-newest-gun-brings-back-hated-meta-3319361/",
+      "description": "Black Ops 7\u2019s newest gun marks the return of a hated meta that has dominated plenty of CoD games in the past.",
+      "published": "Mon, 16 Feb 2026 11:22:34 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/16/Black-Ops-7s-newest-gun-brings-back-hated-meta.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
