@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "479f58eaeb97bc8140d7aecfed19caa6",
-      "title": "Activision announces new strategy for Call of Duty\u2019s annual release plan",
-      "url": "https://www.dexerto.com/call-of-duty/activision-announces-new-strategy-for-call-of-dutys-annual-release-plan-3291779/",
-      "description": "Activision has outlined a new shift for Call of Duty\u2019s annual release plan, which impacts the future of Black Ops & Modern Warfare.",
-      "published": "Tue, 09 Dec 2025 23:04:28 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/02/black-ops-7-beta-hackers-cheat-hours.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 3
-    },
-    {
       "id": "1a5439e2e717a10b77329f7677a0f0a8",
       "title": "Activision Acknowledges Call of Duty Franchise Has Not Met Player Expectations; Next Era Being Built to Deliver What Fans Want",
       "url": "https://mp1st.com/news/call-of-duty-franchise-not-met-player-expectations-next-deliver-what-fans-want",
@@ -498,6 +488,16 @@
       "published": "Mon, 16 Feb 2026 11:22:34 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/16/Black-Ops-7s-newest-gun-brings-back-hated-meta.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
+    },
+    {
+      "id": "b63f8d6cf3b175c43e5a258bf2cceca2",
+      "title": "Black Ops 7 commercial banned by UK regulator",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-commercial-banned-by-uk-regulator-3321729/",
+      "description": "A Call of Duty: Black Ops 7 ad has been banned by the UK\u2019s advertising regulator over \u201ctrivialised sexual violence.\u201d",
+      "published": "Thu, 19 Feb 2026 05:42:40 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/03/black-ops-7-season-1.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
     }
   ],
