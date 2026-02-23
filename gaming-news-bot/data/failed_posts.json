@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "91404278cd5708bea1c6cc67a1cbbe02",
-      "title": "CoD devs respond to Modern Warfare 4 leak as leaker doubles down",
-      "url": "https://www.dexerto.com/call-of-duty/cod-devs-respond-to-modern-warfare-4-leak-as-leaker-doubles-down-3294763/",
-      "description": "Infinity Ward has responded to leaks about Modern Warfare 4, with one reliable leaker calling it a \u201ccomplete copy\u201d of Modern Warfare 2 from 2022.",
-      "published": "Tue, 16 Dec 2025 10:37:46 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/03/14/Modern-Warfare-body-img-2.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 3
-    },
-    {
       "id": "f5a1c8981acd8566511366a8b16ea96a",
       "title": "Black Ops 7 Christmas bundle reignites \u201cgoofy\u201d skin debate",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-christmas-bundle-reignites-goofy-skin-debate-3294787/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/20/Warzone-Season-2-Reloaded.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
+    },
+    {
+      "id": "8ae4790f2ea9fb8652715b9e7c014ce6",
+      "title": "Standalone CoD Zombies game reportedly planned for next-gen consoles",
+      "url": "https://www.dexerto.com/call-of-duty/standalone-cod-zombies-game-reportedly-planned-for-next-gen-consoles-3322963/",
+      "description": "A fresh Call of Duty leak has claimed that the idea of a standalone CoD Zombies title has been floated to release alongside the next generation of consoles amid a \u201cdelay\u201d to the new Xbox.",
+      "published": "Mon, 23 Feb 2026 09:30:25 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/08/19/cod-zombies-black-ops-7-dead-ops.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
