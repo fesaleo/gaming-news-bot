@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "900cca43af3d1db75773bcbe42b28b54",
-      "title": "COD creator Vince Zampella dies in highway crash at 55",
-      "url": "https://www.dexerto.com/call-of-duty/cod-creator-vince-zampella-dies-in-highway-crash-at-55-3297232/",
-      "description": "Video game industry veteran Vince Zampella has died following a crash on Southern California\u2019s Angeles Crest Highway. He was 55.",
-      "published": "Mon, 22 Dec 2025 20:03:28 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/22/InfinityWard.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "d4391019effb3ef519e10b925c719b07",
       "title": "Remembering Vince Zampella: From Call of Duty to Battlefield \u2013 A video game titan",
       "url": "https://www.dexerto.com/gaming/remembering-vince-zampella-a-video-game-titan-3297256/",
@@ -498,6 +488,16 @@
       "published": "Mon, 23 Feb 2026 09:30:25 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/08/19/cod-zombies-black-ops-7-dead-ops.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "810b454e679a519482a9b59cf95aa0ad",
+      "title": "F1 25 Version 1.18 Released for Season 6 via Patch 1.018",
+      "url": "https://mp1st.com/title-updates-and-patches/f1-25-version-1-18-season-6-patch-1-018",
+      "description": "Having trouble viewing the text? You can always read the original article here: F1 25 Version 1.18 Released for Season 6 via Patch 1.018 Codemasters has released the Season 6 updater for F1 25, even if the content won\u2019t actually be available until later this week. Console gamers will see this dow...",
+      "published": "Mon, 02 Mar 2026 15:34:48 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/03/ps5-pro-pssr-600x338.jpg",
       "relevance_score": 1
     }
   ],
