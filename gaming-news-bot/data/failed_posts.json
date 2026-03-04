@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "8c9ab647d1dce26bcaba20aaf5db3a3d",
-      "title": "Warzone devs respond to \u2018Voice and text chat disabled due to platform restrictions\u2019 error",
-      "url": "https://www.dexerto.com/call-of-duty/warzone-devs-respond-to-voice-and-text-chat-disabled-due-to-platform-restrictions-error-3297376/",
-      "description": "Warzone\u2019s \u201cVoice and text chat disabled due to platform restrictions\u201d error is stopping player from using the in-game chat, and the devs have responded.",
-      "published": "Tue, 23 Dec 2025 11:15:10 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/02/warzone-player-sniping.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "1f1c2201af9a5333a52437d0f2aa523b",
       "title": "Ex-Call of Duty boss thinks Warzone is in \u201ctrouble\u201d when GTA 6 comes out",
       "url": "https://www.dexerto.com/call-of-duty/ex-call-of-duty-boss-thinks-warzone-is-in-trouble-when-gta-6-comes-out-3297496/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/10/17/call-of-duty-warzone-cheating-hallucinations-feature.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "aa2de240e62d06de749dccfadef04632",
+      "title": "Warzone\u2019s meta Ghost Perk gets even better with Season 2 Reloaded buff",
+      "url": "https://www.dexerto.com/call-of-duty/warzones-meta-ghost-perk-gets-even-better-with-season-2-reloaded-buff-3328716/",
+      "description": "Warzone\u2019s Ghost Perk was already one of the best in the game, and it\u2019s getting even better as part of Season 2 Reloaded.",
+      "published": "Wed, 04 Mar 2026 18:00:00 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/04/warzone-ghost-perk-buff.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
