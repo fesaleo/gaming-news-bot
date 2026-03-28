@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "c782b41a39859c3843082bbf5734da4f",
-      "title": "Warzone adding Iron Trials successor alongside Ranked Resurgence",
-      "url": "https://www.dexerto.com/call-of-duty/warzone-adding-iron-trials-successor-alongside-ranked-resurgence-3308724/",
-      "description": "Raven Software has announced a shakeup to competitive Warzone in Season 2, including a new mode to rotate with Resurgence Ranked.",
-      "published": "Fri, 23 Jan 2026 11:48:15 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/23/Warzone-Ranked-Play-Season-2.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "81631750a0a4c3da21f2f577ad855076",
       "title": "Buffed Warzone SMG with incredible TTK is dominating Season 1 Reloaded",
       "url": "https://www.dexerto.com/call-of-duty/buffed-warzone-smg-with-incredible-ttk-is-dominating-season-1-reloaded-3309471/",
@@ -498,6 +488,16 @@
       "published": "Thu, 26 Mar 2026 04:42:00 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/26/Dave-Portnoy-crash.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "f82c593211d577919440eebbd41aec32",
+      "title": "Warzone\u2019s movement gets faster than ever with grapple hooks & wall jumping in every mode",
+      "url": "https://www.dexerto.com/call-of-duty/warzones-movement-gets-faster-than-ever-with-grapple-hooks-wall-jumping-in-every-mode-3341896/",
+      "description": "Warzone Season 3 is adding both grapple hooks and wall jumping to BR and Resurgence modes for the first time.",
+      "published": "Fri, 27 Mar 2026 11:05:48 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/27/Warzone-wall-jump-grapple-hooks.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
