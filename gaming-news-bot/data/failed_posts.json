@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "81631750a0a4c3da21f2f577ad855076",
-      "title": "Buffed Warzone SMG with incredible TTK is dominating Season 1 Reloaded",
-      "url": "https://www.dexerto.com/call-of-duty/buffed-warzone-smg-with-incredible-ttk-is-dominating-season-1-reloaded-3309471/",
-      "description": "Warzone has a new meta SMG that easily outguns the Sturmwolf 45 after it was given a huge buff in the latest update.",
-      "published": "Mon, 26 Jan 2026 12:34:26 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/26/Buffed-Warzone-SMG-with-incredible-TTK-is-dominating-Season-1-Reloaded.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "dca72c85af31a87ef9068604f5d846f6",
       "title": "Hytale players turn it into Call of Duty with iconic Black Ops 2 maps",
       "url": "https://www.dexerto.com/gaming/hytale-players-turn-it-into-call-of-duty-with-iconic-black-ops-2-maps-3310775/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/27/Warzone-wall-jump-grapple-hooks.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
+    },
+    {
+      "id": "8cde15345b9eddc28e5ead7642ae0789",
+      "title": "Call of Duty director promises there\u2019s no skill-based damage in Black Ops 7",
+      "url": "https://www.dexerto.com/call-of-duty/call-of-duty-director-promises-theres-no-skill-based-damage-in-black-ops-7-3342707/",
+      "description": "Black Ops 7 design director Matt Scronce has confirmed that there\u2019s no skill-based damage affecting gunfights in Call of Duty.",
+      "published": "Mon, 30 Mar 2026 09:49:38 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/30/Call-of-Duty-director-confirms-theres-no-skill-based-damage-in-Black-Ops-7.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
