@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "dca72c85af31a87ef9068604f5d846f6",
-      "title": "Hytale players turn it into Call of Duty with iconic Black Ops 2 maps",
-      "url": "https://www.dexerto.com/gaming/hytale-players-turn-it-into-call-of-duty-with-iconic-black-ops-2-maps-3310775/",
-      "description": "This custom Hytale server turns the game into an FPS like Call of Duty, complete with some of BO2\u2019s best maps.",
-      "published": "Wed, 28 Jan 2026 15:07:15 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/28/Hytale-Call-of-Duty.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "9ad2929873670bbc953dc8c1b6dd6ced",
       "title": "Black Ops 7 is bringing back fan-favorite mode missing since BO4",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-is-bringing-back-fan-favorite-mode-missing-since-bo4-3311409/",
@@ -498,6 +488,16 @@
       "published": "Mon, 30 Mar 2026 09:49:38 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/30/Call-of-Duty-director-confirms-theres-no-skill-based-damage-in-Black-Ops-7.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
+    },
+    {
+      "id": "d8a107d954f009f0710bf745ed493826",
+      "title": "All weapon buffs and nerfs in Warzone & Black Ops 7 Season 3",
+      "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-and-nerfs-in-warzone-black-ops-7-season-3-3343947/",
+      "description": "All weapon buffs and nerfs in Warzone & Black Ops 7 Season 3, including major Swordfish A1 nerfs and SMG buffs across both games.",
+      "published": "Tue, 31 Mar 2026 21:00:49 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/31/0011_BO7_S3_MP_RankedPlay.webp_.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
     }
   ],
