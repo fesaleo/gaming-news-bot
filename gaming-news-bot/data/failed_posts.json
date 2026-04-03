@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "1135bdf3a5216c29214fda21ca64043d",
-      "title": "F1 25 Update on February 2 Speeds Out as Version 1.017",
-      "url": "https://mp1st.com/title-updates-and-patches/f1-25-update-on-february-2-speeds-out-as-version-1-017",
-      "description": "Having trouble viewing the text? You can always read the original article here: F1 25 Update on February 2 Speeds Out as Version 1.017 Codemasters has released a new F1 25 update on all platforms on February 2, and this brings the game to version 1.017 (complete version 1.017.000). This is a new ...",
-      "published": "Mon, 02 Feb 2026 13:16:01 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/02/Baldurs-Gate-3-Mod-600x337.webp",
-      "relevance_score": 1
-    },
-    {
       "id": "8addfeac92d65a805bf6e4ee6e844155",
       "title": "Warzone shows off new-look Rebirth Island but players have one big problem",
       "url": "https://www.dexerto.com/call-of-duty/warzone-shows-off-new-look-rebirth-island-but-players-have-one-big-problem-3313538/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/27/Warzone-wall-jump-grapple-hooks.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "e60e567f98d3dd34f7e628604d488670",
+      "title": "Modern Warfare 4 leak claims CoD\u2019s most controversial weapon could return",
+      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-leak-claims-cods-most-controversial-weapon-could-return-3345870/",
+      "description": "A new leak has hinted that Modern Warfare 4 could bring back one of Call of Duty\u2019s most divisive weapons.",
+      "published": "Fri, 03 Apr 2026 10:04:08 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/03/Modern-Warfare-4-leak-claims-CoDs-most-controversial-weapon-could-return.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 3
     }
   ],
   "gta6": [],
