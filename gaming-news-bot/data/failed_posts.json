@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "ea33bd3ff41422a567970c70eef5c47d",
-      "title": "Classic Warzone revived after years of work from CoD fans",
-      "url": "https://www.dexerto.com/call-of-duty/classic-warzone-revived-after-years-of-work-from-cod-fans-3312580/",
-      "description": "The original version of Warzone, yes, the most-popular build of Verdansk, is playable online once again thanks to fans.",
-      "published": "Mon, 02 Feb 2026 00:50:20 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/02/Warzone-Classic.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "1135bdf3a5216c29214fda21ca64043d",
       "title": "F1 25 Update on February 2 Speeds Out as Version 1.017",
       "url": "https://mp1st.com/title-updates-and-patches/f1-25-update-on-february-2-speeds-out-as-version-1-017",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/04/starcraft-2-600x329.webp",
       "relevance_score": 3
+    },
+    {
+      "id": "d6d3bf3a1e070944f880b11e42d93010",
+      "title": "Warzone studio co-founder retires after more than three decades",
+      "url": "https://www.dexerto.com/call-of-duty/warzone-studio-co-founder-retires-after-more-than-three-decades-3345616/",
+      "description": "Brian Raffel, who co-founded Raven Software in 1990 and guided it from Heretic to Call of Duty, has retired from the studio.",
+      "published": "Thu, 02 Apr 2026 17:13:27 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/27/Warzone-wall-jump-grapple-hooks.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
