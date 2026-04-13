@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "acc157204c80ebfde077e0a703e55c02",
-      "title": "Buffed Warzone AR dominates long-range meta with unbeatable TTK",
-      "url": "https://www.dexerto.com/call-of-duty/buffed-warzone-ar-dominates-long-range-meta-with-unbeatable-ttk-3316218/",
-      "description": "An already powerful Warzone Assault Rifle now has the best long-range TTK in the game after a buff in Season 2.",
-      "published": "Mon, 09 Feb 2026 16:54:09 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/09/warzone-season-2-fastest-killing-gun.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "61632d012de0e6a716fc25ef772c8889",
       "title": "COD Black Ops 7 & Warzone Update 1.92/1.092 Released on February 10",
       "url": "https://mp1st.com/title-updates-and-patches/cod-black-ops-7-warzone-update-1-92-1-092-february-10",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/03/Battlefield-6-Season-2-Nightfall-_-Official-Gameplay-Trailer-1-22-screenshot-600x338.png",
       "relevance_score": 1
+    },
+    {
+      "id": "3392693ebfd201dae02084757050712f",
+      "title": "Modern Warfare 4 might not launch on Xbox Game Pass according to insider",
+      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-might-not-launch-on-xbox-game-pass-3350770/",
+      "description": "Xbox is reportedly considering removing Call of Duty from Day One on Game Pass with Modern Warfare 4.",
+      "published": "Mon, 13 Apr 2026 10:13:55 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/13/Modern-Warfare-4-might-not-be-on-Xbox-Game-Pass-at-launch.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
