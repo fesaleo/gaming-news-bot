@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "f69496c9a89d20748441b2d42ac22a4b",
-      "title": "Activision responds after shutting down fan-made Classic Warzone revival with cease and desist",
-      "url": "https://www.dexerto.com/call-of-duty/activision-responds-after-shutting-down-fan-made-classic-warzone-revival-with-cease-and-desist-3317710/",
-      "description": "Activision issued a cease and desist to the fan-made Classic Warzone project that restored 2021 Verdansk online.",
-      "published": "Wed, 11 Feb 2026 21:55:56 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/21/Warzone-Season-2-update.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "c2fd4020c5b466d62cc6c58674981262",
       "title": "Black Ops 7\u2019s new akimbo LMGs kill way faster than the best SMGs already",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7s-new-akimbo-lmgs-kill-way-faster-than-the-best-smgs-already-3318601/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/03/black-ops-7-season-1.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 3
+    },
+    {
+      "id": "4029420f201ed9637ccc183c3294a117",
+      "title": "Black Ops 7\u2019s new close-range meta outguns SMGs with crazy TTK",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-7s-new-close-range-meta-outguns-smgs-with-crazy-ttk-3353279/",
+      "description": "Black Ops 7 has a added a new weapon and it\u2019s set to take over the close range meta, as it has a better TTK than the best SMGs.",
+      "published": "Fri, 17 Apr 2026 11:19:06 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/17/Black-Ops-7s-new-close-range-meta-outguns-SMGs-with-crazy-TTK.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
