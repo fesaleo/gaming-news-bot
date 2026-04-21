@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "25443716e5002da78d4915f9231596ee",
-      "title": "Black Ops 7\u2019s newest gun brings back hated meta",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-7s-newest-gun-brings-back-hated-meta-3319361/",
-      "description": "Black Ops 7\u2019s newest gun marks the return of a hated meta that has dominated plenty of CoD games in the past.",
-      "published": "Mon, 16 Feb 2026 11:22:34 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/16/Black-Ops-7s-newest-gun-brings-back-hated-meta.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "b63f8d6cf3b175c43e5a258bf2cceca2",
       "title": "Black Ops 7 commercial banned by UK regulator",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-commercial-banned-by-uk-regulator-3321729/",
@@ -498,6 +488,16 @@
       "published": "Tue, 21 Apr 2026 15:58:06 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/21/Call-of-Duty.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "1de7463f733eac77700569ee909b8cc5",
+      "title": "Xbox Game Pass Price Drops, But Loses Day-One Call of Duty Releases",
+      "url": "https://mp1st.com/news/game-pass-price-drops-loses-day-one-call-of-duty",
+      "description": "Having trouble viewing the text? You can always read the original article here: Xbox Game Pass Price Drops, But Loses Day-One Call of Duty Releases In recent weeks, there has been a lot of speculation and rumors about possible changes to Xbox Game Pass, and now they have been confirmed. Microsoft...",
+      "published": "Tue, 21 Apr 2026 16:54:05 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2025/07/game-pass-600x338.jpg",
       "relevance_score": 1
     }
   ],
