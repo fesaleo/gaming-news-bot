@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "aa2de240e62d06de749dccfadef04632",
-      "title": "Warzone\u2019s meta Ghost Perk gets even better with Season 2 Reloaded buff",
-      "url": "https://www.dexerto.com/call-of-duty/warzones-meta-ghost-perk-gets-even-better-with-season-2-reloaded-buff-3328716/",
-      "description": "Warzone\u2019s Ghost Perk was already one of the best in the game, and it\u2019s getting even better as part of Season 2 Reloaded.",
-      "published": "Wed, 04 Mar 2026 18:00:00 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/04/warzone-ghost-perk-buff.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "c120671a788de6460843dfd18674f17f",
       "title": "Code Vein 2 Update 1.004 Released in March Applies Balance Adjustments, More Patches Dropping This Month",
       "url": "https://mp1st.com/title-updates-and-patches/code-vein-2-update-1-004-march-balance-adjustments-patches-this-month",
@@ -498,6 +488,16 @@
       "published": "Sun, 03 May 2026 14:42:28 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/05/ac-black-flag-resynced-1-600x338.jpg",
+      "relevance_score": 1
+    },
+    {
+      "id": "a9065a0ea43c79f487a620bdb0f4df17",
+      "title": "Modern Warfare 4 could release on last-gen consoles after reportedly being tested on PS4",
+      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-could-release-on-last-gen-consoles-after-reportedly-being-tested-on-ps4-3360484/",
+      "description": "Modern Warfare 4 is being playtested on PlayStation 4 consoles, according to a report from a trusted leaker.",
+      "published": "Mon, 04 May 2026 10:59:50 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/04/Modern-Warfare-4-reportedly-being-tested-on-last-gen-consoles.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
