@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "d9881c299c12d49d41f915ff40f8909a",
-      "title": "Code Violet Update 1.000.028 Delivers Extinction Gauntlet",
-      "url": "https://mp1st.com/title-updates-and-patches/code-violet-update-1-000-028-extinction-gauntlet",
-      "description": "Having trouble viewing the text? You can always read the original article here: Code Violet Update 1.000.028 Delivers Extinction Gauntlet TeamKill Media has released Code Violet update 1.000.028, and this delivers a new mode to the game for free called \u201cExctinction Gauntlet.\u201d Players can also exp...",
-      "published": "Sat, 21 Mar 2026 19:48:32 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/03/crimson-desert-img11-600x338.webp",
-      "relevance_score": 1
-    },
-    {
       "id": "c3ac19206c6228c389fe39b5d491dafa",
       "title": "Black Ops 7 rifle is so \u201cbusted\u201d it turns bad players into CoD pros",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-rifle-is-so-busted-it-turns-bad-players-into-cod-pros-3339352/",
@@ -498,6 +488,16 @@
       "published": "Wed, 03 Jun 2026 09:20:41 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/03/black-ops-7-classic-mode.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
+    },
+    {
+      "id": "abaf681a2880e303f09e9805839e7918",
+      "title": "New Black Ops 7 & Warzone gun with homing bullets sounds absolutely broken",
+      "url": "https://www.dexerto.com/call-of-duty/new-black-ops-7-warzone-gun-with-homing-bullets-sounds-absolutely-broken-3371049/",
+      "description": "Black Ops 7 and Warzone Season 4 arrives on June 4, and it brings a brand-new weapon that fires homing rounds.",
+      "published": "Wed, 03 Jun 2026 11:30:47 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/03/grimhawk-black-ops-7-warzone.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
     }
   ],
