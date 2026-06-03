@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "5ca4d7e73422c1897c799390d59a9ad0",
-      "title": "Modern Warfare (2019) has more Steam players than Warzone & Black Ops 7 combined",
-      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-2019-has-more-steam-players-than-warzone-black-ops-7-combined-3338510/",
-      "description": "After the price was slashed, Modern Warfare (2019) has racked up more players on Steam that Warzone and Black Ops 7.",
-      "published": "Fri, 20 Mar 2026 16:21:58 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/20/Modern-Warfare-2019.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 3
-    },
-    {
       "id": "d9881c299c12d49d41f915ff40f8909a",
       "title": "Code Violet Update 1.000.028 Delivers Extinction Gauntlet",
       "url": "https://mp1st.com/title-updates-and-patches/code-violet-update-1-000-028-extinction-gauntlet",
@@ -498,6 +488,16 @@
       "published": "Sat, 30 May 2026 18:45:06 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2025/10/Battlefield-6-image-new-oct-2-600x338.jpg",
+      "relevance_score": 2
+    },
+    {
+      "id": "6879355e181ab38657a3a8229fa148fd",
+      "title": "Black Ops 7 Season 4 brings classic mode with no Omnimovement or wall-jumps",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-season-4-brings-classic-mode-with-no-omnimovement-or-wall-jumps-3370990/",
+      "description": "Black Ops 7 Season 4 brings classic CoD gameplay with simplified loadouts, no omnimovement, or wall-jumping.",
+      "published": "Wed, 03 Jun 2026 09:20:41 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/03/black-ops-7-classic-mode.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
     }
   ],
