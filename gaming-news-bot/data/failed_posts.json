@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "6ab25e22e3d71bdb6629ad4b2b51df46",
-      "title": "Black Ops 7 finally brings back beloved Freerun mode in Season 3",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-finally-brings-back-beloved-freerun-mode-in-season-3-3340872/",
-      "description": "Call of Duty\u2019s beloved Freerun mode returns in Black Ops 7\u2019s Season 3 update.",
-      "published": "Wed, 25 Mar 2026 17:02:46 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/25/freerun-mode-returns-in-black-ops-7.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "8bf4cd58978402eaa6eacefb8938bb3b",
       "title": "Black Ops 7\u2019s new Scorestreak will be a nightmare to play against",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7s-new-scorestreak-will-be-a-nightmare-to-play-against-3341243/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/06/black-ops-7-season-4-img9.jpg",
       "relevance_score": 2
+    },
+    {
+      "id": "f803c15ae268094b9d4136eed97d6d06",
+      "title": "Warzone finally brings back Solos but removes another mode",
+      "url": "https://www.dexerto.com/call-of-duty/warzone-finally-brings-back-solos-but-removes-another-mode-3371572/",
+      "description": "The Warzone Season 4 update marks the long-awaited return of the Battle Royale Solos playlist, but another Solos has been removed in its place.",
+      "published": "Thu, 04 Jun 2026 09:50:20 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/04/Warzone-Solos-returns.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
