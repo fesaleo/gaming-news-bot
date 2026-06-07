@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "4ae5b6d08b548df557fa493d26d94c21",
-      "title": "Dave Portnoy\u2019s pro Call of Duty team staff in car crash driving on wrong side of road",
-      "url": "https://www.dexerto.com/call-of-duty/dave-portnoys-pro-call-of-duty-team-staff-car-crash-wrong-side-of-road-3341190/",
-      "description": "Barstool owner Dave Portnoy\u2019s professional Call of Duty team staff drove on the wrong side of the road in the UK, leading to a head-on crash.",
-      "published": "Thu, 26 Mar 2026 04:42:00 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/26/Dave-Portnoy-crash.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "f82c593211d577919440eebbd41aec32",
       "title": "Warzone\u2019s movement gets faster than ever with grapple hooks & wall jumping in every mode",
       "url": "https://www.dexerto.com/call-of-duty/warzones-movement-gets-faster-than-ever-with-grapple-hooks-wall-jumping-in-every-mode-3341896/",
@@ -498,6 +488,16 @@
       "published": "Sat, 06 Jun 2026 15:00:00 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/05/MW4-DMZ.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
+    },
+    {
+      "id": "19eab9185f4168fe5ae48cdce7521efe",
+      "title": "Modern Warfare 4\u2019s DMZ mode has three distinct ways to play",
+      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4s-dmz-mode-has-three-distinct-ways-to-play-3372230/",
+      "description": "DMZ mode finally returns alongside Modern Warfare 4, and Infinity Ward has revealed that there will be three different ways to play depending on your preference.",
+      "published": "Sat, 06 Jun 2026 15:00:00 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/05/Modern-Warfare-4-DMZ-mode.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
     }
   ],
