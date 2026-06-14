@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "48aa3856f8e62a4f540b54ffecddbe08",
-      "title": "Black Ops 7 & Warzone Season 3 Update Unleashed via Patch 1.96/1.096",
-      "url": "https://mp1st.com/news/black-ops-7-warzone-season-3-update-patch-1-96-1-096",
-      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 7 & Warzone Season 3 Update Unleashed via Patch 1.96/1.096 Activision has pushed out the latest seasonal content drop for Call of Duty: Black Ops 7 and Warzone today, April 2, and this is for Season 3! Gamer...",
-      "published": "Thu, 02 Apr 2026 19:32:08 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/04/starcraft-2-600x329.webp",
-      "relevance_score": 3
-    },
-    {
       "id": "d6d3bf3a1e070944f880b11e42d93010",
       "title": "Warzone studio co-founder retires after more than three decades",
       "url": "https://www.dexerto.com/call-of-duty/warzone-studio-co-founder-retires-after-more-than-three-decades-3345616/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/12/modern-warfare-4-campaign-early-access.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
+    },
+    {
+      "id": "83841c6f766e0b3492ec463bde5669e3",
+      "title": "Modern Warfare 4 Campaign Early Access Confirmed for October 16",
+      "url": "https://mp1st.com/news/modern-warfare-4-campaign-early-access-confirmed-october-16",
+      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 Campaign Early Access Confirmed for October 16 While Call of Duty: Modern Warfare 4 is set for release on October 23, there is a chance to plat it early, though it\u2019ll only be the campaign. Same as in ...",
+      "published": "Sat, 13 Jun 2026 04:28:56 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/05/modern-warfare-4-image5-600x338.jpg",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
