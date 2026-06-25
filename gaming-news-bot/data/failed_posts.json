@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "7e5c6a5c0fda1e68de540c4fc7078b0e",
-      "title": "\u201cSleeper\u201d LMG brings back one of Warzone\u2019s most dominant weapons ever",
-      "url": "https://www.dexerto.com/call-of-duty/sleeper-lmg-brings-back-one-of-warzones-most-dominant-weapons-ever-3354131/",
-      "description": "One of Warzone\u2019s LMGs might be a sleeper to most players, but it actually has one of the best TTKs in-game.",
-      "published": "Mon, 20 Apr 2026 14:13:46 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/12/20/Black-Ops-6-LMG-is-one-of-Warzones-best-guns-but-its-not-for-everyone.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "96a2017f25a4078dcae2e051c7281e87",
       "title": "Xbox Game Pass gets cheaper but won\u2019t include Call of Duty at launch",
       "url": "https://www.dexerto.com/gaming/xbox-game-pass-gets-cheaper-but-wont-include-call-of-duty-at-launch-3354699/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/25/warzone-gas-play-nerf.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
+    },
+    {
+      "id": "46ed63e8320cb817a999b57b22c9721d",
+      "title": "Black Ops 7 & Warzone Season 4 Reload Update Released as Patch 2.00/1.100",
+      "url": "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-4-reload-update-released-patch-2-00-1-100",
+      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 7 & Warzone Season 4 Reload Update Released as Patch 2.00/1.100 Call of Duty: Black Ops 7 and Warzone Season 4 Reloaded are here! This brings new maps, weapons, and even Nicolas Cage into the shooter. Those ...",
+      "published": "Thu, 25 Jun 2026 19:00:41 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2023/09/Destiny-2-The-Final-Shape-600x338.jpg",
+      "relevance_score": 3
     }
   ],
   "gta6": [],
