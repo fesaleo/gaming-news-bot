@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "96a2017f25a4078dcae2e051c7281e87",
-      "title": "Xbox Game Pass gets cheaper but won\u2019t include Call of Duty at launch",
-      "url": "https://www.dexerto.com/gaming/xbox-game-pass-gets-cheaper-but-wont-include-call-of-duty-at-launch-3354699/",
-      "description": "Xbox has confirmed that the price of a Game Pass subscription is coming down, but new Call of Duty games will no longer launch on the service.",
-      "published": "Tue, 21 Apr 2026 15:58:06 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/21/Call-of-Duty.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "1de7463f733eac77700569ee909b8cc5",
       "title": "Xbox Game Pass Price Drops, But Loses Day-One Call of Duty Releases",
       "url": "https://mp1st.com/news/game-pass-price-drops-loses-day-one-call-of-duty",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2023/09/Destiny-2-The-Final-Shape-600x338.jpg",
       "relevance_score": 3
+    },
+    {
+      "id": "89f48b4ed2ca8e5d9fdce8d14feb4eb1",
+      "title": "Report: GTA 6 Won\u2019t Get a Physical Disc Version Even After Launch",
+      "url": "https://mp1st.com/news/gta-6-wont-get-a-physical-disc-version",
+      "description": "Having trouble viewing the text? You can always read the original article here: Report: GTA 6 Won\u2019t Get a Physical Disc Version Even After Launch Rockstar\u2019s decision to release the physical edition of GTA 6 with a download code in the box instead of a game disc has clearly upset many fans, with s...",
+      "published": "Sat, 27 Jun 2026 15:33:14 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/gta-6-ultimate-edition-32-600x338.jpg",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
