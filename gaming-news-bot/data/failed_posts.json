@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "1de7463f733eac77700569ee909b8cc5",
-      "title": "Xbox Game Pass Price Drops, But Loses Day-One Call of Duty Releases",
-      "url": "https://mp1st.com/news/game-pass-price-drops-loses-day-one-call-of-duty",
-      "description": "Having trouble viewing the text? You can always read the original article here: Xbox Game Pass Price Drops, But Loses Day-One Call of Duty Releases In recent weeks, there has been a lot of speculation and rumors about possible changes to Xbox Game Pass, and now they have been confirmed. Microsoft...",
-      "published": "Tue, 21 Apr 2026 16:54:05 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2025/07/game-pass-600x338.jpg",
-      "relevance_score": 1
-    },
-    {
       "id": "d186f9a90e62af724ff26d189c79fcd8",
       "title": "Report: Microsoft May Introduce Custom Game Pass Plans",
       "url": "https://mp1st.com/news/microsoft-may-introduce-custom-game-pass-plans",
@@ -498,6 +488,16 @@
       "published": "Sat, 27 Jun 2026 15:33:14 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/06/gta-6-ultimate-edition-32-600x338.jpg",
+      "relevance_score": 1
+    },
+    {
+      "id": "3df11a210e6a12a2e86ad87a8799fdf9",
+      "title": "Minecraft and Call of Duty community servers called \u201cillegal\u201d by Entertainment Software Association",
+      "url": "https://www.dexerto.com/gaming/minecraft-and-call-of-duty-community-servers-called-illegal-by-entertainment-software-association-3380992/",
+      "description": "Minecraft and Call of Duty community servers have been labelled as \u201cillegal\u201d by the ESA during a \u2018Protect Our Games\u2019 hearing.",
+      "published": "Tue, 30 Jun 2026 11:22:32 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/30/Steve-in-Prison.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
