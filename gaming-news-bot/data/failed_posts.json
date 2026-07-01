@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "d186f9a90e62af724ff26d189c79fcd8",
-      "title": "Report: Microsoft May Introduce Custom Game Pass Plans",
-      "url": "https://mp1st.com/news/microsoft-may-introduce-custom-game-pass-plans",
-      "description": "Having trouble viewing the text? You can always read the original article here: Report: Microsoft May Introduce Custom Game Pass Plans Microsoft has recently lowered the price of Game Pass while removing future Call of Duty titles from its day-one launch lineup, confirming earlier leaks that sugg...",
-      "published": "Wed, 22 Apr 2026 17:50:48 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2025/07/game-pass-600x338.jpg",
-      "relevance_score": 1
-    },
-    {
       "id": "213162d4be41ec544d2ba045f2195a15",
       "title": "Terry Crews Operator revealed for Warzone and Black Ops 7",
       "url": "https://www.dexerto.com/call-of-duty/terry-crews-operator-revealed-for-warzone-and-black-ops-7-3355809/",
@@ -498,6 +488,16 @@
       "published": "Tue, 30 Jun 2026 11:22:32 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/30/Steve-in-Prison.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "c7133e9f5b0774f40f4edc86df45638f",
+      "title": "Apex Legends Update on July 1 Fixes Error Code Truck, Applies Seer Changes via Patch 3.15/1.000.129",
+      "url": "https://mp1st.com/title-updates-and-patches/apex-legends-update-july-1-fixes-error-code-truck-applies-seer-changes-patch-3-15-1-000-129",
+      "description": "Having trouble viewing the text? You can always read the original article here: Apex Legends Update on July 1 Fixes Error Code Truck, Applies Seer Changes via Patch 3.15/1.000.129 Respawn Entertainment has released a new Apex Legends update on July 1, and this is a minor update that doesn\u2019t bring...",
+      "published": "Wed, 01 Jul 2026 18:45:29 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2025/06/playstation-logo-600x338.jpeg",
       "relevance_score": 1
     }
   ],
