@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "213162d4be41ec544d2ba045f2195a15",
-      "title": "Terry Crews Operator revealed for Warzone and Black Ops 7",
-      "url": "https://www.dexerto.com/call-of-duty/terry-crews-operator-revealed-for-warzone-and-black-ops-7-3355809/",
-      "description": "Actor and sitcom icon Terry Crews joins Black Ops 7 and Warzone as a playable Operator in the Season 3 Reloaded update.",
-      "published": "Thu, 23 Apr 2026 17:00:00 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/23/terry-crews-black-ops-7-warzone.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "9cca7c9044b23e7519568b2379e66918",
       "title": "Black Ops 7 adds insta-killing Spear Gun & it\u2019s an absolute beast",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-adds-insta-killing-spear-gun-its-an-absolute-beast-3356265/",
@@ -498,6 +488,16 @@
       "published": "Wed, 01 Jul 2026 18:45:29 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2025/06/playstation-logo-600x338.jpeg",
+      "relevance_score": 1
+    },
+    {
+      "id": "69f811f2ec5114ca43c7bac8c539611b",
+      "title": "Twitch streamer accuses HusKerrs of changing his own $50K tournament rules after losing match",
+      "url": "https://www.dexerto.com/twitch/twitch-streamer-accuses-huskerrs-of-changing-his-own-50k-tournament-rules-after-losing-match-3382638/",
+      "description": "Warzone creator zGhoul has accused HusKerrs of changing the rules of his own $50K tournament mid-event after a disputed stream-sniping reset.",
+      "published": "Thu, 02 Jul 2026 16:02:36 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/02/huskerss-cod-warzone-tournament-controversy.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
