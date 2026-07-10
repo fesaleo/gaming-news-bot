@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "851a42df6446a7698c30648ad121d5be",
-      "title": "Black Ops 7 Season 3 Reload Unleashed via Update 1.97",
-      "url": "https://mp1st.com/title-updates-and-patches/black-ops-7-season-3-reload-unleashed-update-1-97",
-      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 7 Season 3 Reload Unleashed via Update 1.97 The latest content drop for Black Ops 7 is live with the Season 3 Reloaded patch! Players can expect new maps, modes, weapons and more to be part of today\u2019s downlo...",
-      "published": "Thu, 30 Apr 2026 18:58:02 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/04/inj3-600x338.png",
-      "relevance_score": 1
-    },
-    {
       "id": "0a1f6eca7ef32aa9a8aec7815aefd55b",
       "title": "Buffed Warzone AR outguns meta weapons with rapid TTK",
       "url": "https://www.dexerto.com/call-of-duty/buffed-warzone-ar-outguns-meta-weapons-with-rapid-ttk-3359674/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/07/playstation-600x338.png",
       "relevance_score": 2
+    },
+    {
+      "id": "45221860878e992902245f95ff7035c9",
+      "title": "GTA 6 Will Require Age Verification in Australia",
+      "url": "https://mp1st.com/news/gta-6-will-require-age-verification-in-australia",
+      "description": "Having trouble viewing the text? You can always read the original article here: GTA 6 Will Require Age Verification in Australia GTA 6 is still coming this year to PS5 and Xbox Series X|S, on November 19. Players can already pre-order it in \u201cphysical\u201d format, with a box and download code, or in d...",
+      "published": "Thu, 09 Jul 2026 19:35:21 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/gta-6-ultimate-edition-25-600x338.jpg",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
