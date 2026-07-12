@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "0a1f6eca7ef32aa9a8aec7815aefd55b",
-      "title": "Buffed Warzone AR outguns meta weapons with rapid TTK",
-      "url": "https://www.dexerto.com/call-of-duty/buffed-warzone-ar-outguns-meta-weapons-with-rapid-ttk-3359674/",
-      "description": "Warzone has a new meta Assault Rifle after it was given a major buff in the mid-season update, leaving it with a rapid TTK that none of its rivals can match.",
-      "published": "Fri, 01 May 2026 15:32:09 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/01/Buffed-Warzone-Assault-Rifle-outguns-meta-rivals-with-monster-TTK.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "d03d9ce1ac2e8803ec853a0532d7dff9",
       "title": "Saros Free PSN Avatars Shoots Out for All Regions",
       "url": "https://mp1st.com/news/saros-free-psn-avatars-shoots-out-for-all-regions",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/06/gta-6-ultimate-edition-25-600x338.jpg",
       "relevance_score": 1
+    },
+    {
+      "id": "59872c6a12bbc8a831a9c81784d67cba",
+      "title": "Call of Duty Black Ops 1 and 2 Does Support Crossplay Between PS4 and PS5",
+      "url": "https://mp1st.com/news/call-of-duty-black-ops-1-and-2-does-support-crossplay-between-ps4-and-ps5",
+      "description": "Having trouble viewing the text? You can always read the original article here: Call of Duty Black Ops 1 and 2 Does Support Crossplay Between PS4 and PS5 With the release of Call of Duty: Black Ops 1 and 2 on PS4 and PS5 last week, there\u2019s been a lot of confusion among fans, specifically around c...",
+      "published": "Sun, 12 Jul 2026 02:37:31 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/07/Assassins-Creed-Black-Flag-Resynced-Review-6-600x338.jpg",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
