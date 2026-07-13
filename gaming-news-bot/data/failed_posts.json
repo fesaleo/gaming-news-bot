@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "a9065a0ea43c79f487a620bdb0f4df17",
-      "title": "Modern Warfare 4 could release on last-gen consoles after reportedly being tested on PS4",
-      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-could-release-on-last-gen-consoles-after-reportedly-being-tested-on-ps4-3360484/",
-      "description": "Modern Warfare 4 is being playtested on PlayStation 4 consoles, according to a report from a trusted leaker.",
-      "published": "Mon, 04 May 2026 10:59:50 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/04/Modern-Warfare-4-reportedly-being-tested-on-last-gen-consoles.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "119dae5a027b93a9d14fb0d72ec9ddeb",
       "title": "Fan-favorite CoD scorestreak is still \u201cuseless\u201d in Black Ops 7",
       "url": "https://www.dexerto.com/call-of-duty/fan-favorite-cod-scorestreak-is-still-useless-in-black-ops-7-3360573/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/06/xbox-logo-1-600x338.png",
       "relevance_score": 2
+    },
+    {
+      "id": "57d461baa2b4bf279498b21d6d7e09e7",
+      "title": "Black Ops 7 & Warzone Season 5 Launches July 23; New Info Breakdown",
+      "url": "https://mp1st.com/news/black-ops-7-season-5-info-breakdown",
+      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 7 & Warzone Season 5 Launches July 23; New Info Breakdown While most Call of Duty players might have their sights already set on Modern Warfare 4 later this year (or on Black Ops\u2019 re-releases on PS4, PS5), l...",
+      "published": "Mon, 13 Jul 2026 20:19:05 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/05/modern-warfare-4-image-7-600x338.webp",
+      "relevance_score": 4
     }
   ],
   "gta6": [],
