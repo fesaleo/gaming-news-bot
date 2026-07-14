@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "280ab65234681f5ed862e7951adea21b",
-      "title": "Next Call of Duty Game Is Finally Skipping Last-Gen",
-      "url": "https://mp1st.com/news/next-call-of-duty-game-finally-skipping-last-gen",
-      "description": "Having trouble viewing the text? You can always read the original article here: Next Call of Duty Game Is Finally Skipping Last-Gen While almost every major gaming franchise now is only available on current-gen hardware (PS5, Xbox Series X|S), that hasn\u2019t been the case for the most popular franch...",
-      "published": "Mon, 04 May 2026 21:58:14 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/04/Saros-image-2-600x338.png",
-      "relevance_score": 1
-    },
-    {
       "id": "a4a794b3154bff09eccfdfe0acfb782c",
       "title": "Call of Duty confirms next game won\u2019t release on PS4",
       "url": "https://www.dexerto.com/call-of-duty/call-of-duty-confirms-next-game-wont-release-on-ps4-3360887/",
@@ -498,6 +488,16 @@
       "published": "Tue, 14 Jul 2026 09:23:40 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/14/Black-Ops-devs-respond-as-PS5-ports-are-already-full-of-cheaters.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
+    },
+    {
+      "id": "e3ffc00ff0943bbe8e7911c0051bc263",
+      "title": "Black Ops 2\u2019s PS4 Version Has Better Image Quality Than the PS5 Version When Playing on the PS5 Pro",
+      "url": "https://mp1st.com/features/black-ops-2s-ps4-version-has-better-image-quality-than-the-ps5-version-when-playing-on-the-ps5-pro",
+      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 2\u2019s PS4 Version Has Better Image Quality Than the PS5 Version When Playing on the PS5 Pro If you missed the news, Call of Duty: Black Ops 1 & 2 are now available on the PS4 and PS5, allowing a new generation...",
+      "published": "Tue, 14 Jul 2026 17:09:26 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/05/black-ops-1-and-2-600x338.png",
       "relevance_score": 2
     }
   ],
