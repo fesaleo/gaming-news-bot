@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "119dae5a027b93a9d14fb0d72ec9ddeb",
-      "title": "Fan-favorite CoD scorestreak is still \u201cuseless\u201d in Black Ops 7",
-      "url": "https://www.dexerto.com/call-of-duty/fan-favorite-cod-scorestreak-is-still-useless-in-black-ops-7-3360573/",
-      "description": "A popular Black Ops 7 scorestreak is still \u201cuseless\u201d months after the game launched, despite being pretty powerful in previous CoD titles.",
-      "published": "Mon, 04 May 2026 12:00:52 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/04/All-buffs-and-nerfs-in-Black-Ops-7-and-Warzone-Season-2.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "280ab65234681f5ed862e7951adea21b",
       "title": "Next Call of Duty Game Is Finally Skipping Last-Gen",
       "url": "https://mp1st.com/news/next-call-of-duty-game-finally-skipping-last-gen",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/05/modern-warfare-4-image-7-600x338.webp",
       "relevance_score": 4
+    },
+    {
+      "id": "8bf2eeb8ad62cde6bab7a3f45ca50d51",
+      "title": "Black Ops devs respond as PS5 ports are already full of cheaters",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-devs-respond-as-ps5-ports-are-already-full-of-cheaters-3387032/",
+      "description": "Treyarch has been forced to take action as the PS5 port of Black Ops 1 is already full of cheaters, just days after launch.",
+      "published": "Tue, 14 Jul 2026 09:23:40 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/14/Black-Ops-devs-respond-as-PS5-ports-are-already-full-of-cheaters.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
