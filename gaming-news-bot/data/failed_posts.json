@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "6789a74163278999a56a671647aed360",
-      "title": "Broken Warzone shotgun kills enemies in one shot after glitch",
-      "url": "https://www.dexerto.com/call-of-duty/broken-warzone-shotgun-kills-enemies-in-one-shot-after-glitch-3364591/",
-      "description": "Call of Duty players have discovered a bugged Shotgun in Warzone that can one-shot enemies at close range, even if they\u2019re fully plated.",
-      "published": "Wed, 13 May 2026 15:26:34 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/13/Broken-Warzone-shotgun-kills-enemies-in-one-shot-after-glitch.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "1bd9a0aa1ab66127a43d82efb4e80339",
       "title": "CoD Zombies & Star Wars voice actor Tom Kane dead at 64 years old",
       "url": "https://www.dexerto.com/tv-movies/cod-zombies-star-wars-voice-actor-tom-kane-dead-at-64-years-old-3365788/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/15/captain-price-kill-block-modern-warfare-4.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "29427c4ba1e362abde08b51124166b3e",
+      "title": "Modern Warfare 4 Kill Block Revealed; \u201cSlabs\u201d Can Result in Over 500 Map Combinations",
+      "url": "https://mp1st.com/news/modern-warfare-4-kill-block-revealed-slabs-result-over-500-map-combinations",
+      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 Kill Block Revealed; \u201cSlabs\u201d Can Result in Over 500 Map Combinations Not only are we getting new maps in Call of Duty: Modern Warfare 4 later this year, but Infinity Ward is introducing the \u201cKill Bloc...",
+      "published": "Wed, 15 Jul 2026 21:00:34 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/07/black-ops-1-img-600x338.png",
+      "relevance_score": 3
     }
   ],
   "gta6": [],
