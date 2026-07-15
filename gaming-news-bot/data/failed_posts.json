@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "a4a794b3154bff09eccfdfe0acfb782c",
-      "title": "Call of Duty confirms next game won\u2019t release on PS4",
-      "url": "https://www.dexerto.com/call-of-duty/call-of-duty-confirms-next-game-wont-release-on-ps4-3360887/",
-      "description": "Call of Duty has confirmed its next game won\u2019t release on PS4, finally cutting ties with last-gen hardware after years of cross-gen releases.",
-      "published": "Mon, 04 May 2026 20:37:26 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/21/Call-of-Duty.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "6789a74163278999a56a671647aed360",
       "title": "Broken Warzone shotgun kills enemies in one shot after glitch",
       "url": "https://www.dexerto.com/call-of-duty/broken-warzone-shotgun-kills-enemies-in-one-shot-after-glitch-3364591/",
@@ -498,6 +488,16 @@
       "published": "Tue, 14 Jul 2026 17:09:26 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/05/black-ops-1-and-2-600x338.png",
+      "relevance_score": 2
+    },
+    {
+      "id": "78504eda5cb8ebadb9ec1b4026293bbb",
+      "title": "Modern Warfare 4\u2019s constantly changing Kill Block map officially revealed",
+      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4s-constantly-changing-kill-block-map-officially-revealed-3387681/",
+      "description": "Modern Warfare 4 devs Infinity Ward have finally revealed the Kill Block map and explained exactly how it works.",
+      "published": "Wed, 15 Jul 2026 16:00:00 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/15/captain-price-kill-block-modern-warfare-4.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
     }
   ],
