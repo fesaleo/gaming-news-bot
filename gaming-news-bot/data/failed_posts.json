@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "5aedf6ac6b9ca9282716b6871473443e",
-      "title": "CoD devs promise \u201cgrounded\u201d skins and collabs in Modern Warfare 4",
-      "url": "https://www.dexerto.com/call-of-duty/cod-devs-promise-authentic-skins-and-collabs-in-modern-warfare-4-3369502/",
-      "description": "Infinity Ward has promised that Call of Duty: Modern Warfare 4 will focus on an \u201cauthentic\u201d feel to the series, and that goes for any potential skin collabs.",
-      "published": "Fri, 29 May 2026 08:57:21 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-korean-soldier.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 4
-    },
-    {
       "id": "713e4652e3e0b579a62d6bafb0d56edc",
       "title": "Report: First Black Ops, Black Ops 2 Rated in Korea, Hinting Remasters Are on the Way",
       "url": "https://mp1st.com/news/first-black-ops-black-ops-2-rated-korea-hinting-remasters",
@@ -498,6 +488,16 @@
       "published": "Mon, 20 Jul 2026 19:00:37 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/07/Modern-Warefare4.072026-1920x1080-1-600x338.png",
+      "relevance_score": 3
+    },
+    {
+      "id": "4d54f873926472112ca305e2b9c4fa7b",
+      "title": "CoD expert reveals how Modern Warfare 4\u2019s TTK compares to MW2 & BO7",
+      "url": "https://www.dexerto.com/call-of-duty/cod-expert-reveals-how-modern-warfare-4s-ttk-compares-to-mw2-bo7-3389574/",
+      "description": "As the first gameplay of Modern Warfare 4 emerges, one expert has managed to reveal how the game\u2019s time-to-kill compares to past Call of Dutys.",
+      "published": "Tue, 21 Jul 2026 10:59:09 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-multiplayer.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 3
     }
   ],
