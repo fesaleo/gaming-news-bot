@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "713e4652e3e0b579a62d6bafb0d56edc",
-      "title": "Report: First Black Ops, Black Ops 2 Rated in Korea, Hinting Remasters Are on the Way",
-      "url": "https://mp1st.com/news/first-black-ops-black-ops-2-rated-korea-hinting-remasters",
-      "description": "Having trouble viewing the text? You can always read the original article here: Report: First Black Ops, Black Ops 2 Rated in Korea, Hinting Remasters Are on the Way While Call of Duty: Modern Warfare 4 was just announced yesterday, Activision might have more Call of Duty announcements on the way...",
-      "published": "Fri, 29 May 2026 20:59:33 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/05/modern-warfare-4-splash-1-600x338.jpg",
-      "relevance_score": 3
-    },
-    {
       "id": "9895c829f3ec858b27eceaa077d74a3c",
       "title": "Modern Warfare 4 Movement Gameplay Shown Off; Movement Options \u201cNot Hard to Understand\u201d Claims Devs",
       "url": "https://mp1st.com/news/modern-warfare-4-movement-gameplay-shown-options-not-hardo-understand",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-multiplayer.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 3
+    },
+    {
+      "id": "4c651acd8cb95f514ca0c94a14daeda0",
+      "title": "Call of Duty\u2019s Ghost actor stars in new action movie Rise of the Footsoldier: Retribution",
+      "url": "https://www.dexerto.com/tv-movies/call-of-dutys-ghost-actor-stars-in-new-action-movie-rise-of-the-footsoldier-retribution-3389522/",
+      "description": "The original Call of Duty Ghost actor, Craig Fairbrass, stars in a new action movie Rise of the Footsoldier: Retribution.",
+      "published": "Tue, 21 Jul 2026 10:27:13 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/21/craig-fairbrass-Rise-of-the-Footsoldier-Retribution.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
