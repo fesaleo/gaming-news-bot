@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "6879355e181ab38657a3a8229fa148fd",
-      "title": "Black Ops 7 Season 4 brings classic mode with no Omnimovement or wall-jumps",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-season-4-brings-classic-mode-with-no-omnimovement-or-wall-jumps-3370990/",
-      "description": "Black Ops 7 Season 4 brings classic CoD gameplay with simplified loadouts, no omnimovement, or wall-jumping.",
-      "published": "Wed, 03 Jun 2026 09:20:41 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/03/black-ops-7-classic-mode.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "abaf681a2880e303f09e9805839e7918",
       "title": "New Black Ops 7 & Warzone gun with homing bullets sounds absolutely broken",
       "url": "https://www.dexerto.com/call-of-duty/new-black-ops-7-warzone-gun-with-homing-bullets-sounds-absolutely-broken-3371049/",
@@ -498,6 +488,16 @@
       "published": "Wed, 22 Jul 2026 18:14:08 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/06/gears-of-war-e-day-1-600x338.jpg",
+      "relevance_score": 2
+    },
+    {
+      "id": "59cc99747eea2013b0c4aa30a69df14e",
+      "title": "All weapon buffs and nerfs in Black Ops 7 & Warzone Season 5",
+      "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-and-nerfs-in-black-ops-7-warzone-season-5-3390033/",
+      "description": "Here are all the weapon buffs and nerfs in Black Ops 7 and Warzone Season 5 update.",
+      "published": "Wed, 22 Jul 2026 19:05:22 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/22/All-weapon-buffs-and-nerfs-in-Black-Ops-7-Warzone-Season-5.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
     }
   ],
