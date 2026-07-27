@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "f803c15ae268094b9d4136eed97d6d06",
-      "title": "Warzone finally brings back Solos but removes another mode",
-      "url": "https://www.dexerto.com/call-of-duty/warzone-finally-brings-back-solos-but-removes-another-mode-3371572/",
-      "description": "The Warzone Season 4 update marks the long-awaited return of the Battle Royale Solos playlist, but another Solos has been removed in its place.",
-      "published": "Thu, 04 Jun 2026 09:50:20 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/04/Warzone-Solos-returns.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "72285a6be8d92975052b69e223830c4a",
       "title": "Modern Warfare 4 DMZ brings brand-new map even bigger than Al Mazrah",
       "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-dmz-brings-brand-new-map-even-bigger-than-al-mazrah-3372245/",
@@ -498,6 +488,16 @@
       "published": "Fri, 24 Jul 2026 22:08:32 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2024/11/playstation-image-600x338.webp",
+      "relevance_score": 1
+    },
+    {
+      "id": "558493e118c59c4dc85736eee828de10",
+      "title": "New Warzone Assault Rifle with no recoil dominates at long range",
+      "url": "https://www.dexerto.com/call-of-duty/new-warzone-assault-rifle-with-no-recoil-dominates-at-long-range-3391313/",
+      "description": "A brand-new Assault Rifle in Warzone Season 5 has everything you want in a primary weapon, combining low recoil and a fast time to kill.",
+      "published": "Mon, 27 Jul 2026 13:49:07 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/27/warzone-assault-rifle-low-recoil.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
