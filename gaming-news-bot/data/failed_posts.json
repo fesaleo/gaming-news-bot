@@ -1,26 +1,6 @@
 {
   "cod": [
     {
-      "id": "19eab9185f4168fe5ae48cdce7521efe",
-      "title": "Modern Warfare 4\u2019s DMZ mode has three distinct ways to play",
-      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4s-dmz-mode-has-three-distinct-ways-to-play-3372230/",
-      "description": "DMZ mode finally returns alongside Modern Warfare 4, and Infinity Ward has revealed that there will be three different ways to play depending on your preference.",
-      "published": "Sat, 06 Jun 2026 15:00:00 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/05/Modern-Warfare-4-DMZ-mode.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
-      "id": "00abc5c061b848a6a9e6e06e958fc201",
-      "title": "Black Ops and Black Ops 2 Added to PSN Store Backend; Suggests Announcement Incoming",
-      "url": "https://mp1st.com/news/black-ops-black-ops-2-added-psn-store-backend-announcement-incoming",
-      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops and Black Ops 2 Added to PSN Store Backend; Suggests Announcement Incoming A week ago, the Korean Ratings Board filed ratings for Call of Duty: Black Ops and Black Ops 2, which means either remasters are on ...",
-      "published": "Tue, 09 Jun 2026 03:43:59 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/05/modern-warfare-4-image2-600x338.jpg",
-      "relevance_score": 2
-    },
-    {
       "id": "2367a04ce28ea735ac1add2ee6d48ab5",
       "title": "Black Ops Cold War Update on June 9 Mysteriously Released as Version 1.041/1.42",
       "url": "https://mp1st.com/title-updates-and-patches/black-ops-cold-war-update-june-9-mysteriously-released-version-1-041-1-42",
@@ -499,6 +479,26 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/04/modern-warfare-4-captain-price.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
+    },
+    {
+      "id": "e2782831915469bd8485337ab2030fcd",
+      "title": "Black Ops 2 Update 1.06/1.006 Deployed on July 30",
+      "url": "https://mp1st.com/title-updates-and-patches/black-ops-2-update-1-06-1-006-deployed-july-30-emergency-patch",
+      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 2 Update 1.06/1.006 Deployed on July 30 Heads-up, Call of Duty: Black Ops 2 PS4, PS5 gamers, Iron Galaxy has released a new title update for the game today, July 30, and this should be of interest to everyon...",
+      "published": "Thu, 30 Jul 2026 19:37:00 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/07/battlefield-6-ea-andrew-wilson-money-600x338.png",
+      "relevance_score": 2
+    },
+    {
+      "id": "64a94bdccfef797f67e046b5d77ace2b",
+      "title": "Black Ops 2 on PS4, PS5 Plagued by Modded Lobbies That Will Brick Player Accounts",
+      "url": "https://mp1st.com/news/black-ops-2-ps4-ps5-plagued-modded-lobbies-will-brick-player-accounts",
+      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 2 on PS4, PS5 Plagued by Modded Lobbies That Will Brick Player Accounts The re-release of Call of Duty: Black Ops and Black Ops 2 on PS4, PS5 is something that should have been met with excitement given a lo...",
+      "published": "Thu, 30 Jul 2026 18:43:56 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/05/black-ops-1-and-2-600x338.png",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
