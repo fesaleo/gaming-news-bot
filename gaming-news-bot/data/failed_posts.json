@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "03447aa1151e433f342fdcd9ac5bcd47",
-      "title": "Call of Duty: Black Ops & Black Ops 2 finally coming to PS4 and PS5 \u2013 Report",
-      "url": "https://www.dexerto.com/call-of-duty/call-of-duty-black-ops-black-ops-2-finally-coming-to-ps4-and-ps5-report-3373384/",
-      "description": "A new Call of Duty Black Ops 1 and 2 port is reportedly coming to modern platforms, following various leaks and datamines.",
-      "published": "Thu, 11 Jun 2026 12:05:47 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/11/CoD-Black-Ops-2.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "11067dff0fe9c587f1df8ba7fa7614c0",
       "title": "Modern Warfare 4 campaign early access confirmed",
       "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-campaign-early-access-confirmed-3375184/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/07/Call-of-Duty-Black-Ops-2-PS5-vs-PS4-Comparison-600x338.jpg",
       "relevance_score": 2
+    },
+    {
+      "id": "6f8fa34476f4082d8390c82a9df899bb",
+      "title": "Black Ops 2 devs respond to hackers boosting account levels with new update",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-2-devs-respond-to-hackers-boosting-account-levels-with-new-update-3394186/",
+      "description": "As hackers run rampant in the Black Ops 2 port, the devs have released a new update to crack down on account level hacks.",
+      "published": "Mon, 03 Aug 2026 14:32:16 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/03/black-ops-2-ps5.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
