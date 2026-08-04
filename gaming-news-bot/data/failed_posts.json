@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "11067dff0fe9c587f1df8ba7fa7614c0",
-      "title": "Modern Warfare 4 campaign early access confirmed",
-      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-campaign-early-access-confirmed-3375184/",
-      "description": "Modern Warfare 4 officially brings back campaign early access, allowing you to play the single-player a week early.",
-      "published": "Fri, 12 Jun 2026 17:02:44 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/12/modern-warfare-4-campaign-early-access.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "83841c6f766e0b3492ec463bde5669e3",
       "title": "Modern Warfare 4 Campaign Early Access Confirmed for October 16",
       "url": "https://mp1st.com/news/modern-warfare-4-campaign-early-access-confirmed-october-16",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/03/black-ops-2-ps5.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
+    },
+    {
+      "id": "102336ba99fdeca1ce4c49e62d441f31",
+      "title": "How to watch Black Ops 7 at EWC 2026: Streams, results, more",
+      "url": "https://www.dexerto.com/call-of-duty/how-to-watch-black-ops-7-at-ewc-2026-streams-results-more-3394383/",
+      "description": "The Call of Duty: Black Ops 7 part of the 2026 Esports World Cup is about to get underway, with $600,000 on offer for the winners. Here\u2019s what you need to know.",
+      "published": "Tue, 04 Aug 2026 12:03:17 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/03/cod-ewc-2025-optic.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
