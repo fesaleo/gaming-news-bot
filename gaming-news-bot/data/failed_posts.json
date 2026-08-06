@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "83841c6f766e0b3492ec463bde5669e3",
-      "title": "Modern Warfare 4 Campaign Early Access Confirmed for October 16",
-      "url": "https://mp1st.com/news/modern-warfare-4-campaign-early-access-confirmed-october-16",
-      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 Campaign Early Access Confirmed for October 16 While Call of Duty: Modern Warfare 4 is set for release on October 23, there is a chance to plat it early, though it\u2019ll only be the campaign. Same as in ...",
-      "published": "Sat, 13 Jun 2026 04:28:56 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/05/modern-warfare-4-image5-600x338.jpg",
-      "relevance_score": 2
-    },
-    {
       "id": "379d0c9f368e85414ace4ccc56d2f97f",
       "title": "Black Ops studio head of 22 years departs Treyarch after overseeing every entry in the series",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-studio-head-of-22-years-departs-treyarch-after-overseeing-every-entry-in-the-series-3376048/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/03/cod-ewc-2025-optic.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "5cbca0bba0f54329700d78b3eee30d84",
+      "title": "Warzone devs confirm divisive Grappling Hooks are being removed",
+      "url": "https://www.dexerto.com/call-of-duty/warzone-devs-confirm-divisive-grappling-hooks-are-being-removed-3395432/",
+      "description": "Warzone\u2019s divisive Grappling Hooks will be removed from both Battle Royale and Resurgence playlists in a future update.",
+      "published": "Thu, 06 Aug 2026 10:04:29 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/06/grappling-hook-warzone.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
