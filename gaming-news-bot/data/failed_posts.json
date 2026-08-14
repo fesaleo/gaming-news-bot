@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "63e2b41047eef5cd072c3c6f6a95b5ae",
-      "title": "F1 25 New Update on June 15 Races Out for Version 1.022",
-      "url": "https://mp1st.com/title-updates-and-patches/f1-25-new-update-june-15-races-out-version-1-022",
-      "description": "Having trouble viewing the text? You can always read the original article here: F1 25 New Update on June 15 Races Out for Version 1.022 Codemasters has released a new game update for F1 25, bringing the game to version 1.22/1.022 on June 15. Players can expect various issues connected to gameplay...",
-      "published": "Mon, 15 Jun 2026 17:03:02 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/06/w3kyart-600x338.png",
-      "relevance_score": 1
-    },
-    {
       "id": "aa31dfb8c58ce7034b94780c3b0ce9d6",
       "title": "Black Ops and Black Ops 2 PlayStation Ports Releases in July; Includes Multiplayer",
       "url": "https://mp1st.com/news/black-ops-black-ops-2-playstation-ports-releases-july-includes-multiplayer",
@@ -498,6 +488,16 @@
       "published": "Fri, 14 Aug 2026 14:05:34 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-multiplayer.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
+    },
+    {
+      "id": "a28109e9248a46a7f054e40343e35437",
+      "title": "Black Ops 2 New Update 1.07/1.007 Adds More Security on PS4, PS5",
+      "url": "https://mp1st.com/title-updates-and-patches/black-ops-2-new-update-1-07-1-007-adds-more-security-ps4-ps5",
+      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 2 New Update 1.07/1.007 Adds More Security on PS4, PS5 Iron Galaxy has released a new game update for Call of Duty: Black Ops 2 on both PS4 and PS5 today, August 14. This is another security update, but ther...",
+      "published": "Fri, 14 Aug 2026 17:48:30 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/08/battlefield-6-top-gun-600x338.png",
       "relevance_score": 2
     }
   ],
