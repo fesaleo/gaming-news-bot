@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "4dc5ce0664ca1f39a9c1aeb4a85dda9d",
-      "title": "Warzone makes gas plays nearly impossible with huge Stim nerf",
-      "url": "https://www.dexerto.com/call-of-duty/warzone-makes-gas-plays-nearly-impossible-with-huge-stim-nerf-3379400/",
-      "description": "Warzone\u2019s Season 4 Reloaded update has made some big changes to counter gas plays, including another Stim nerf.",
-      "published": "Thu, 25 Jun 2026 11:20:08 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/25/warzone-gas-play-nerf.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "46ed63e8320cb817a999b57b22c9721d",
       "title": "Black Ops 7 & Warzone Season 4 Reload Update Released as Patch 2.00/1.100",
       "url": "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-4-reload-update-released-patch-2-00-1-100",
@@ -498,6 +488,16 @@
       "published": "Thu, 20 Aug 2026 21:02:50 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/06/Intergalactic-The-Heretic-Prophet-600x338.png",
+      "relevance_score": 3
+    },
+    {
+      "id": "64b1dbafbb31da66f42950b3819c53ba",
+      "title": "Modern Warfare 4 Beta Update on August 22 Thankfully Nerfs Frangible and Adjusts Footsteps",
+      "url": "https://mp1st.com/title-updates-and-patches/modern-warfare-4-beta-update-1-002-thankfully-nerfs-frangible-and-more",
+      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 Beta Update on August 22 Thankfully Nerfs Frangible and Adjusts Footsteps Just a day after the Call of Duty: Modern Warfare 4 early access beta went live, Infinity Ward has already pushed out a patch ...",
+      "published": "Sat, 22 Aug 2026 18:22:52 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/08/Metal-Gear-Solid-4-600x338.png",
       "relevance_score": 3
     }
   ],
