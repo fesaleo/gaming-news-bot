@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "46ed63e8320cb817a999b57b22c9721d",
-      "title": "Black Ops 7 & Warzone Season 4 Reload Update Released as Patch 2.00/1.100",
-      "url": "https://mp1st.com/title-updates-and-patches/black-ops-7-warzone-season-4-reload-update-released-patch-2-00-1-100",
-      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 7 & Warzone Season 4 Reload Update Released as Patch 2.00/1.100 Call of Duty: Black Ops 7 and Warzone Season 4 Reloaded are here! This brings new maps, weapons, and even Nicolas Cage into the shooter. Those ...",
-      "published": "Thu, 25 Jun 2026 19:00:41 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2023/09/Destiny-2-The-Final-Shape-600x338.jpg",
-      "relevance_score": 3
-    },
-    {
       "id": "89f48b4ed2ca8e5d9fdce8d14feb4eb1",
       "title": "Report: GTA 6 Won\u2019t Get a Physical Disc Version Even After Launch",
       "url": "https://mp1st.com/news/gta-6-wont-get-a-physical-disc-version",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/08/Metal-Gear-Solid-4-600x338.png",
       "relevance_score": 3
+    },
+    {
+      "id": "a14e9380b6792cf8342b19182199c69a",
+      "title": "Modern Warfare 4 devs increase TTK by nerfing meta weapons following backlash",
+      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-devs-increase-ttk-by-nerfing-meta-weapons-following-backlash-3401577/",
+      "description": "Modern Warfare 4\u2019s devs have raised the game\u2019s TTK by nerfing some of the beta\u2019s best weapons.",
+      "published": "Mon, 24 Aug 2026 16:29:53 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/24/modern-warfare-4-ttk.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
