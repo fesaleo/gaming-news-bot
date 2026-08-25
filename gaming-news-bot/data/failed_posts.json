@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "3df11a210e6a12a2e86ad87a8799fdf9",
-      "title": "Minecraft and Call of Duty community servers called \u201cillegal\u201d by Entertainment Software Association",
-      "url": "https://www.dexerto.com/gaming/minecraft-and-call-of-duty-community-servers-called-illegal-by-entertainment-software-association-3380992/",
-      "description": "Minecraft and Call of Duty community servers have been labelled as \u201cillegal\u201d by the ESA during a \u2018Protect Our Games\u2019 hearing.",
-      "published": "Tue, 30 Jun 2026 11:22:32 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/30/Steve-in-Prison.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "c7133e9f5b0774f40f4edc86df45638f",
       "title": "Apex Legends Update on July 1 Fixes Error Code Truck, Applies Seer Changes via Patch 3.15/1.000.129",
       "url": "https://mp1st.com/title-updates-and-patches/apex-legends-update-july-1-fixes-error-code-truck-applies-seer-changes-patch-3-15-1-000-129",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/25/captain-price-haircut-mw4.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
+    },
+    {
+      "id": "2c37b00630529fe05748dd02aae524a9",
+      "title": "Modern Warfare 4 Beta Update 1.002 Rolled Out on August 25 as Early Access Ends",
+      "url": "https://mp1st.com/title-updates-and-patches/modern-warfare-4-beta-update-1-002-rolled-out-august-25-early-access-ends",
+      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 Beta Update 1.002 Rolled Out on August 25 as Early Access Ends As the early access period for the Call of Duty: Modern Warfare 4 beta ends, the devs at Infinity Ward has now released a new game update...",
+      "published": "Tue, 25 Aug 2026 19:20:37 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/08/PEGI-Rainbow-Six-Tactics_-Reveal-Trailer-1-5-screenshot-600x338.png",
+      "relevance_score": 3
     }
   ],
   "gta6": [],
