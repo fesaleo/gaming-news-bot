@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "69f811f2ec5114ca43c7bac8c539611b",
-      "title": "Twitch streamer accuses HusKerrs of changing his own $50K tournament rules after losing match",
-      "url": "https://www.dexerto.com/twitch/twitch-streamer-accuses-huskerrs-of-changing-his-own-50k-tournament-rules-after-losing-match-3382638/",
-      "description": "Warzone creator zGhoul has accused HusKerrs of changing the rules of his own $50K tournament mid-event after a disputed stream-sniping reset.",
-      "published": "Thu, 02 Jul 2026 16:02:36 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/02/huskerss-cod-warzone-tournament-controversy.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "70a861f7fefdd6c261158791eb0fac41",
       "title": "Easy-to-use Warzone Assault Rifle is the only primary you need in Season 4 Reloaded",
       "url": "https://www.dexerto.com/call-of-duty/easy-to-use-warzone-assault-rifle-is-the-only-primary-you-need-in-season-4-reloaded-3384339/",
@@ -498,6 +488,16 @@
       "published": "Thu, 27 Aug 2026 20:58:24 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/08/gmsale1-600x338.png",
+      "relevance_score": 2
+    },
+    {
+      "id": "581800f027850668ae5d3c06dfa1563f",
+      "title": "Modern Warfare 4 Beta Feedback Sees Devs Remove Tactical Sprint by Default, Increased TTK",
+      "url": "https://mp1st.com/news/modern-warfare-4-beta-feedback-remove-tactical-sprint-default-increased-ttk",
+      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 Beta Feedback Sees Devs Remove Tactical Sprint by Default, Increased TTK After the first week of the Call of Duty: Modern Warfare 4 beta, a lot of gamers (including us!) have a thing or two to say abo...",
+      "published": "Fri, 28 Aug 2026 16:33:35 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/08/gta-6-new-image-600x338.png",
       "relevance_score": 2
     }
   ],
