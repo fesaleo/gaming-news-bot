@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "e3ffc00ff0943bbe8e7911c0051bc263",
-      "title": "Black Ops 2\u2019s PS4 Version Has Better Image Quality Than the PS5 Version When Playing on the PS5 Pro",
-      "url": "https://mp1st.com/features/black-ops-2s-ps4-version-has-better-image-quality-than-the-ps5-version-when-playing-on-the-ps5-pro",
-      "description": "Having trouble viewing the text? You can always read the original article here: Black Ops 2\u2019s PS4 Version Has Better Image Quality Than the PS5 Version When Playing on the PS5 Pro If you missed the news, Call of Duty: Black Ops 1 & 2 are now available on the PS4 and PS5, allowing a new generation...",
-      "published": "Tue, 14 Jul 2026 17:09:26 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/05/black-ops-1-and-2-600x338.png",
-      "relevance_score": 2
-    },
-    {
       "id": "78504eda5cb8ebadb9ec1b4026293bbb",
       "title": "Modern Warfare 4\u2019s constantly changing Kill Block map officially revealed",
       "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4s-constantly-changing-kill-block-map-officially-revealed-3387681/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/09/war-dogs-img1-600x338.jpg",
       "relevance_score": 2
+    },
+    {
+      "id": "f4f63b83359d5a5bc14ca03a81db6da5",
+      "title": "Black Ops 2 port finally adds dedicated servers & fans are delighted",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-2-port-finally-adds-dedicated-servers-fans-are-delighted-3408006/",
+      "description": "The PS4 and PS5 port of Black Ops 2 has finally added dedicated servers, addressing one of the biggest complaints players have had since it launched in July.",
+      "published": "Fri, 11 Sep 2026 09:22:25 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/11/CoD-Black-Ops-2.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
