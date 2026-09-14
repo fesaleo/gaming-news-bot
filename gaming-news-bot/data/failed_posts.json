@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "78504eda5cb8ebadb9ec1b4026293bbb",
-      "title": "Modern Warfare 4\u2019s constantly changing Kill Block map officially revealed",
-      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4s-constantly-changing-kill-block-map-officially-revealed-3387681/",
-      "description": "Modern Warfare 4 devs Infinity Ward have finally revealed the Kill Block map and explained exactly how it works.",
-      "published": "Wed, 15 Jul 2026 16:00:00 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/15/captain-price-kill-block-modern-warfare-4.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "29427c4ba1e362abde08b51124166b3e",
       "title": "Modern Warfare 4 Kill Block Revealed; \u201cSlabs\u201d Can Result in Over 500 Map Combinations",
       "url": "https://mp1st.com/news/modern-warfare-4-kill-block-revealed-slabs-result-over-500-map-combinations",
@@ -498,6 +488,16 @@
       "published": "Fri, 11 Sep 2026 09:22:25 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/11/CoD-Black-Ops-2.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "668cf7dbc53debda0f527f9c41b51ad7",
+      "title": "Code Vein 2 Update 2.002 for September 14 Fixes Quest Progression Issue",
+      "url": "https://mp1st.com/title-updates-and-patches/code-vein-2-update-2-002-for-september-14-fixes-quest-progression-issue",
+      "description": "Having trouble viewing the text? You can always read the original article here: Code Vein 2 Update 2.002 for September 14 Fixes Quest Progression Issue Bandai Namco Entertainment has issued Code Vein 2 update 2.002 on September 14, and given we just received a mighty big update last week, this on...",
+      "published": "Mon, 14 Sep 2026 06:59:19 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/09/The-Last-of-Us-Multiplayer-2-600x338.png",
       "relevance_score": 1
     }
   ],
