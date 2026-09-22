@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "017e5c17aa22ce7d93e217d90cfdc2da",
-      "title": "Infinity Ward insists MW4\u2019s controversial Gunsmith assistant isn\u2019t AI",
-      "url": "https://www.dexerto.com/call-of-duty/call-of-duty-fans-slam-modern-warfare-4s-gunsmith-assistant-3388060/",
-      "description": "We\u2019ve officially had our first look at the Modern Warfare 4 Gunsmith. But one feature has already got fans angry: Gunny.",
-      "published": "Thu, 16 Jul 2026 13:37:40 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/04/modern-warfare-4-captain-price.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "4b5eeeb1cea20b31e65dc5c460d3cb03",
       "title": "Modern Warfare 4 devs respond to backlash over visual recoil in new gameplay reveal",
       "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-devs-respond-to-backlash-over-visual-recoil-in-new-gameplay-reveal-3387997/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/16/weapon-buffs-nerfs-black-ops-7-warzone-season-6.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "fe06b9e2ce414260a3a41978b72a1b73",
+      "title": "New Warzone Assault Rifle has fastest TTK in the game with no recoil",
+      "url": "https://www.dexerto.com/call-of-duty/new-warzone-assault-rifle-has-fastest-ttk-in-the-game-with-no-recoil-3411117/",
+      "description": "A brand-new Warzone Assault Rifle is the fastest-killing weapon in the game, combining a rapid time to kill with virtually no recoil.",
+      "published": "Tue, 22 Sep 2026 11:29:30 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/22/warzone-tr51-para-assault-rifle.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
