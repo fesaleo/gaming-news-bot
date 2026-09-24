@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "4b5eeeb1cea20b31e65dc5c460d3cb03",
-      "title": "Modern Warfare 4 devs respond to backlash over visual recoil in new gameplay reveal",
-      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-devs-respond-to-backlash-over-visual-recoil-in-new-gameplay-reveal-3387997/",
-      "description": "Infinity Ward has already been forced to respond to concerns about the amount of visual recoil in Modern Warfare 4.",
-      "published": "Thu, 16 Jul 2026 11:28:48 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-multiplayer.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "7ee15bb29e190aeb7e6cc100598f1318",
       "title": "Black Ops and Black Ops 2 on PS4, PS5 Manage to Reach Over 7 Million Players in First Week",
       "url": "https://mp1st.com/news/black-ops-black-ops-2-ps4-ps5-manage-reach-over-7-million-players-in-first-week",
@@ -498,6 +488,16 @@
       "published": "Tue, 22 Sep 2026 11:29:30 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/22/warzone-tr51-para-assault-rifle.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "cf160cf70a6e9512ec0681591865d0c9",
+      "title": "Code Vein 2 Update 2.003 Fixes Attack-Related Issues on September 24",
+      "url": "https://mp1st.com/title-updates-and-patches/code-vein-2-update-2-003-fixes-attack-related-issues-september-24",
+      "description": "Having trouble viewing the text? You can always read the original article here: Code Vein 2 Update 2.003 Fixes Attack-Related Issues on September 24 A new game update is available for Code Vein 2 across consoles and PC, and this brings the game to version 2.0.3. Expect this to be another minor pa...",
+      "published": "Thu, 24 Sep 2026 06:49:52 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/09/aion-2-gamescom-preview-06-600x338.jpg",
       "relevance_score": 1
     }
   ],
