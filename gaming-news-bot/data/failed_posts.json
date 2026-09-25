@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "65f0eb928f2ff7f14bd26d14039509d0",
-      "title": "Call of Duty Movie Will Be Set In Modern Warfare Universe",
-      "url": "https://mp1st.com/news/call-of-duty-movie-will-be-set-in-modern-warfare-universe",
-      "description": "Having trouble viewing the text? You can always read the original article here: Call of Duty Movie Will Be Set In Modern Warfare Universe For as long as the Call of Duty franchise has been going, it has been surprising that it has taken this long to get a movie based on the series. First announce...",
-      "published": "Sat, 18 Jul 2026 19:35:51 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/07/Modern-Warefare4.072026-1920x1080-1-600x338.png",
-      "relevance_score": 2
-    },
-    {
       "id": "6cae3926649c875739484e6e2fa7858e",
       "title": "Modern Warfare 4 Beta Dates and Content Announced; COD Next Set for Aug. 21",
       "url": "https://mp1st.com/news/modern-warfare-4-beta-dates-and-content-announced-cod-next-set-for-aug-21",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-multiplayer.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "ef5405dea2fe3b5d1b10abc70d7053ba",
+      "title": "COD Warzone & Black Ops 7 Update 2.06 | 1.108 Released on September 25",
+      "url": "https://mp1st.com/news/cod-warzone-black-ops-7-update-2-06-1-108-released-september-25",
+      "description": "Having trouble viewing the text? You can always read the original article here: COD Warzone & Black Ops 7 Update 2.06 | 1.108 Released on September 25 Activision has pushed out a new Call of Duty update for the app on all platforms, and this is a minor patch that brings fixes to issues more than ...",
+      "published": "Fri, 25 Sep 2026 16:56:40 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/09/GTA-6-Vice_City_Collection-600x338.png",
+      "relevance_score": 4
     }
   ],
   "gta6": [],
