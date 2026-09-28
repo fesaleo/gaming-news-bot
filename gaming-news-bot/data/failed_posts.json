@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "4d54f873926472112ca305e2b9c4fa7b",
-      "title": "CoD expert reveals how Modern Warfare 4\u2019s TTK compares to MW2 & BO7",
-      "url": "https://www.dexerto.com/call-of-duty/cod-expert-reveals-how-modern-warfare-4s-ttk-compares-to-mw2-bo7-3389574/",
-      "description": "As the first gameplay of Modern Warfare 4 emerges, one expert has managed to reveal how the game\u2019s time-to-kill compares to past Call of Dutys.",
-      "published": "Tue, 21 Jul 2026 10:59:09 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-multiplayer.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 3
-    },
-    {
       "id": "4c651acd8cb95f514ca0c94a14daeda0",
       "title": "Call of Duty\u2019s Ghost actor stars in new action movie Rise of the Footsoldier: Retribution",
       "url": "https://www.dexerto.com/tv-movies/call-of-dutys-ghost-actor-stars-in-new-action-movie-rise-of-the-footsoldier-retribution-3389522/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/09/GTA-6-Vice_City_Collection-600x338.png",
       "relevance_score": 4
+    },
+    {
+      "id": "04b83ab7b276d0e588d5a612c2c1c0e3",
+      "title": "Warzone devs confirm camos won\u2019t carry over after MW4 update",
+      "url": "https://www.dexerto.com/call-of-duty/warzone-devs-confirm-camos-wont-carry-over-after-mw4-update-3412871/",
+      "description": "Activision has confirmed that weapon camos from older Call of Duty games will not carry over into the Modern Warfare 4 version of Warzone.",
+      "published": "Mon, 28 Sep 2026 10:15:28 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/28/Warzone-devs-confirm-camos-wont-carry-over-after-MW4-update.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 3
     }
   ],
   "gta6": [],
