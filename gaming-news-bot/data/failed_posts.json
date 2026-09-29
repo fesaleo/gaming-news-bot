@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "4c651acd8cb95f514ca0c94a14daeda0",
-      "title": "Call of Duty\u2019s Ghost actor stars in new action movie Rise of the Footsoldier: Retribution",
-      "url": "https://www.dexerto.com/tv-movies/call-of-dutys-ghost-actor-stars-in-new-action-movie-rise-of-the-footsoldier-retribution-3389522/",
-      "description": "The original Call of Duty Ghost actor, Craig Fairbrass, stars in a new action movie Rise of the Footsoldier: Retribution.",
-      "published": "Tue, 21 Jul 2026 10:27:13 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/21/craig-fairbrass-Rise-of-the-Footsoldier-Retribution.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "a1855f8e1e94bbee80173527358db87c",
       "title": "Black Ops 7 and Warzone hold race to earn camo only 100,000 players can unlock",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-and-warzone-hold-race-to-earn-camo-only-100000-players-can-unlock-3390069/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/28/Warzone-devs-confirm-camos-wont-carry-over-after-MW4-update.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 3
+    },
+    {
+      "id": "8e46f65cc2115f45d4597c31a978c939",
+      "title": "Minecraft & Skate 2 modded into Modern Warfare 2 in wildest combo yet",
+      "url": "https://www.dexerto.com/call-of-duty/minecraft-skate-2-modded-into-modern-warfare-2-in-wildest-combo-yet-3413312/",
+      "description": "Modders have added several new twists to Modern Warfare 2, with viral videos showing off mods for Minecraft and skateboarding in the iconic game.",
+      "published": "Tue, 29 Sep 2026 09:15:56 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/29/Minecraft-Skate-2-modded-into-Modern-Warfare-2-in-wildest-combo-yet.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
