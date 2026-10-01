@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "59cc99747eea2013b0c4aa30a69df14e",
-      "title": "All weapon buffs and nerfs in Black Ops 7 & Warzone Season 5",
-      "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-and-nerfs-in-black-ops-7-warzone-season-5-3390033/",
-      "description": "Here are all the weapon buffs and nerfs in Black Ops 7 and Warzone Season 5 update.",
-      "published": "Wed, 22 Jul 2026 19:05:22 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/22/All-weapon-buffs-and-nerfs-in-Black-Ops-7-Warzone-Season-5.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "5fff47e32150a4ce31edef2c5ee2daf9",
       "title": "Black Ops 7 Update 2.02 Fires Out for Season 5",
       "url": "https://mp1st.com/title-updates-and-patches/black-ops-7-update-2-02-fires-out-for-season-5",
@@ -498,6 +488,16 @@
       "published": "Wed, 30 Sep 2026 11:09:28 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-multiplayer.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "f660b2e09c57fb248a8a0bd859824d77",
+      "title": "Wardogs WD-L018 Error Code Hits Players After Patch 0.1.2, But There\u2019s a Fix",
+      "url": "https://mp1st.com/news/wardogs-wd-l018-error-code-hits-players-after-patch-0-1-2-but-theres-a-fix",
+      "description": "Having trouble viewing the text? You can always read the original article here: Wardogs WD-L018 Error Code Hits Players After Patch 0.1.2, But There\u2019s a Fix While Wardogs players are eagerly awaiting news regarding Season 2, Bulkhead has released minor game update 0.1.2 to mitigate some issues. U...",
+      "published": "Thu, 01 Oct 2026 08:37:07 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/09/war-dogs-img3-600x338.jpg",
       "relevance_score": 1
     }
   ],
