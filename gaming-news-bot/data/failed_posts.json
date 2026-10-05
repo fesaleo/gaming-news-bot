@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "558493e118c59c4dc85736eee828de10",
-      "title": "New Warzone Assault Rifle with no recoil dominates at long range",
-      "url": "https://www.dexerto.com/call-of-duty/new-warzone-assault-rifle-with-no-recoil-dominates-at-long-range-3391313/",
-      "description": "A brand-new Assault Rifle in Warzone Season 5 has everything you want in a primary weapon, combining low recoil and a fast time to kill.",
-      "published": "Mon, 27 Jul 2026 13:49:07 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/07/27/warzone-assault-rifle-low-recoil.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "ebb4d52c713313b8fb6b4cffcff74573",
       "title": "Discord Nitro users will get early access to Modern Warfare 4 Beta: Report",
       "url": "https://www.dexerto.com/call-of-duty/discord-nitro-users-will-get-early-access-to-modern-warfare-4-beta-report-3392164/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/08/gta-6-img6-600x338.jpg",
       "relevance_score": 1
+    },
+    {
+      "id": "7eafce25d298f4a470055a614af907a3",
+      "title": "Hajin map in Modern Warfare 4 DMZ and Warzone revealed: All POIs",
+      "url": "https://www.dexerto.com/call-of-duty/hajin-map-in-modern-warfare-4-dmz-and-warzone-revealed-all-pois-3415624/",
+      "description": "Modern Warfare 4 DMZ and Warzone\u2019s Hajin map has been revealed, giving an overview of the large-scale map and its POIs.",
+      "published": "Mon, 05 Oct 2026 17:00:00 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/05/mw4-warzone-hajin-map-revealed.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 2
     }
   ],
   "gta6": [],
