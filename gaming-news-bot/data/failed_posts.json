@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "5cbca0bba0f54329700d78b3eee30d84",
-      "title": "Warzone devs confirm divisive Grappling Hooks are being removed",
-      "url": "https://www.dexerto.com/call-of-duty/warzone-devs-confirm-divisive-grappling-hooks-are-being-removed-3395432/",
-      "description": "Warzone\u2019s divisive Grappling Hooks will be removed from both Battle Royale and Resurgence playlists in a future update.",
-      "published": "Thu, 06 Aug 2026 10:04:29 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/06/grappling-hook-warzone.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "564fe0aab21e76487224a4b7545d8ead",
       "title": "Warzone and Modern Warfare 4\u2019s campaign are coming to the beta",
       "url": "https://www.dexerto.com/call-of-duty/warzone-and-modern-warfare-4s-campaign-are-coming-to-the-beta-3398399/",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/04/modern-warfare-4-captain-price.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "02fd06873f10f37066139250a35f9306",
+      "title": "COD Black Ops 7 & Warzone Update 1.109 Applies Weapon Adjustments on October 15",
+      "url": "https://mp1st.com/title-updates-and-patches/cod-black-ops-7-warzone-update-1-109-applies-weapon-adjustments-on-october-15",
+      "description": "Having trouble viewing the text? You can always read the original article here: COD Black Ops 7 & Warzone Update 1.109 Applies Weapon Adjustments on October 15 Treyarch and Raven Software have released a new game update for both Call of Duty: Black Ops 7 and Warzone today, and this mostly deals w...",
+      "published": "Thu, 15 Oct 2026 16:44:47 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/10/battlefield-6-ufo-1-600x338.webp",
+      "relevance_score": 5
     }
   ],
   "gta6": [],
