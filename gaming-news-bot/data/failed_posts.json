@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "0741994fa69ba65b9aa4ee7e7eb86246",
-      "title": "Modern Warfare 4 devs promise fix for Captain Price\u2019s terrible hairline",
-      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-devs-promise-fix-for-captain-prices-terrible-hairline-3401946/",
-      "description": "Modern Warfare 4\u2019s devs have responded after Captain Price Operator\u2019s botched haircut in the beta went viral.",
-      "published": "Tue, 25 Aug 2026 11:25:34 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/25/captain-price-haircut-mw4.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "2c37b00630529fe05748dd02aae524a9",
       "title": "Modern Warfare 4 Beta Update 1.002 Rolled Out on August 25 as Early Access Ends",
       "url": "https://mp1st.com/title-updates-and-patches/modern-warfare-4-beta-update-1-002-rolled-out-august-25-early-access-ends",
@@ -498,6 +488,16 @@
       "published": "Fri, 23 Oct 2026 18:28:38 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/23/temp-cod.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "274f3d2e7c2a2d044d7b818e54c83d30",
+      "title": "Modern Warfare 4 Weird Washed-out Graphics Fix for PC After Recent Nvidia Driver Update That Added ASD",
+      "url": "https://mp1st.com/news/modern-warfare-4-weird-washed-out-graphics-fix-pc-after-recent-update",
+      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 Weird Washed-out Graphics Fix for PC After Recent Nvidia Driver Update That Added ASD The latest Nvidia driver update is out, and it introduced support for Microsoft\u2019s Advanced Shader Delivery (ASD) t...",
+      "published": "Sun, 25 Oct 2026 03:00:05 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/tomb-raider-atlantis-4-600x338.jpg",
       "relevance_score": 1
     }
   ],
