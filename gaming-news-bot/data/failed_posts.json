@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "2c37b00630529fe05748dd02aae524a9",
-      "title": "Modern Warfare 4 Beta Update 1.002 Rolled Out on August 25 as Early Access Ends",
-      "url": "https://mp1st.com/title-updates-and-patches/modern-warfare-4-beta-update-1-002-rolled-out-august-25-early-access-ends",
-      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 Beta Update 1.002 Rolled Out on August 25 as Early Access Ends As the early access period for the Call of Duty: Modern Warfare 4 beta ends, the devs at Infinity Ward has now released a new game update...",
-      "published": "Tue, 25 Aug 2026 19:20:37 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/08/PEGI-Rainbow-Six-Tactics_-Reveal-Trailer-1-5-screenshot-600x338.png",
-      "relevance_score": 3
-    },
-    {
       "id": "4b21be4fd72cd62516b68b05fdcb86c2",
       "title": "Black Ops 2 Update 1.09/1.009 Shoots Out on August 27",
       "url": "https://mp1st.com/title-updates-and-patches/black-ops-2-update-1-09-1-009-shoots-out-august-27",
@@ -498,6 +488,16 @@
       "published": "Sun, 25 Oct 2026 03:00:05 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/06/tomb-raider-atlantis-4-600x338.jpg",
+      "relevance_score": 1
+    },
+    {
+      "id": "60327c555d4cd740c7b6f8df6cfebe85",
+      "title": "Modern Warfare 4 has secret 3D-printed guns you can find on one map",
+      "url": "https://www.dexerto.com/call-of-duty/modern-warfare-4-has-secret-3d-printed-guns-you-can-find-on-one-map-3421806/",
+      "description": "Modern Warfare 4\u2019s Cachette map has a 3D printer that prints out guns for players to use, and you can end up with some pretty deadly weapons.",
+      "published": "Mon, 26 Oct 2026 11:41:58 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/26/Modern-Warfare-4-has-secret-3D-printed-guns-on-this-multiplayer-map.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
