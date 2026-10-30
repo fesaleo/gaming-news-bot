@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "df29f41a631710b2562f0bde982a1220",
-      "title": "F1 25 Version 1.25 Released on September 7 as Update 1.025 on Consoles",
-      "url": "https://mp1st.com/title-updates-and-patches/f1-25-version-1-25-released-september-7-update-1-025-consoles",
-      "description": "Having trouble viewing the text? You can always read the original article here: F1 25 Version 1.25 Released on September 7 as Update 1.025 on Consoles Codemasters has released version 1.25 of F1 25, and this is more than just a bugfix patch. Players can expect the addition of the 2026 F2 Champion...",
-      "published": "Mon, 07 Sep 2026 15:02:26 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/09/kznrm-600x338.jpg",
-      "relevance_score": 1
-    },
-    {
       "id": "2e2ecf3f90fb9c36563eb60c1c496322",
       "title": "Black Ops Royale will be removed from Warzone after less than a year",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-royale-will-be-removed-from-warzone-after-less-than-a-year-3407099/",
@@ -498,6 +488,16 @@
       "published": "Wed, 28 Oct 2026 17:01:12 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/28/Modern-Warfare-4-Season-1-adds-new-DMZ-location-and-missions.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "919f40be6c6200c0f5fd588dac1f813b",
+      "title": "Real footage of a South Korean tragedy to be removed from Modern Warfare 4 after backlash",
+      "url": "https://www.dexerto.com/call-of-duty/real-footage-of-a-south-korean-tragedy-to-be-removed-from-modern-warfare-4-after-backlash-3423160/",
+      "description": "Activision has apologized after footage from the real-life Itaewon crowd crush in South Korea was used in Modern Warfare 4, confirming that the clip will be removed from the game.",
+      "published": "Fri, 30 Oct 2026 12:35:18 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-korean-soldier.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
