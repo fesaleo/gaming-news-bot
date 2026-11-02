@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "2e2ecf3f90fb9c36563eb60c1c496322",
-      "title": "Black Ops Royale will be removed from Warzone after less than a year",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-royale-will-be-removed-from-warzone-after-less-than-a-year-3407099/",
-      "description": "Warzone\u2019s Black Ops Royale mode is set to be scrapped after less than a year, as it won\u2019t be carried over once Modern Warfare 4 arrives.",
-      "published": "Wed, 09 Sep 2026 09:29:26 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/02/Warzone-Black-Ops-Royale-mode.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 3
-    },
-    {
       "id": "5137167de95c4cb693c4f700dd8aac55",
       "title": "Code Vein 2 Update 2.001 Bites Out for DLC and New Features on September 8",
       "url": "https://mp1st.com/title-updates-and-patches/code-vein-2-update-2-001-bites-out-for-dlc-and-new-features-september-8",
@@ -498,6 +488,16 @@
       "published": "Fri, 30 Oct 2026 12:35:18 GMT",
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/modern-warfare-4-korean-soldier.jpg?width=1080&quality=75&format=auto",
+      "relevance_score": 1
+    },
+    {
+      "id": "63be923f0b9845cd8b8857f2f843a0e5",
+      "title": "Warzone Season 1 removes Verdansk and Rebirth Island",
+      "url": "https://www.dexerto.com/call-of-duty/warzone-season-1-removes-verdansk-and-rebirth-island-3424008/",
+      "description": "Warzone is temporarily removing two of its most iconic maps, Verdansk and Rebirth Island, when Season 1 begins on November 6.",
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/04/01/hudson-warzone-verdansk-stadium.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
