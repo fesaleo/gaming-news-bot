@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "f4f63b83359d5a5bc14ca03a81db6da5",
-      "title": "Black Ops 2 port finally adds dedicated servers & fans are delighted",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-2-port-finally-adds-dedicated-servers-fans-are-delighted-3408006/",
-      "description": "The PS4 and PS5 port of Black Ops 2 has finally added dedicated servers, addressing one of the biggest complaints players have had since it launched in July.",
-      "published": "Fri, 11 Sep 2026 09:22:25 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/11/CoD-Black-Ops-2.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 1
-    },
-    {
       "id": "668cf7dbc53debda0f527f9c41b51ad7",
       "title": "Code Vein 2 Update 2.002 for September 14 Fixes Quest Progression Issue",
       "url": "https://mp1st.com/title-updates-and-patches/code-vein-2-update-2-002-for-september-14-fixes-quest-progression-issue",
@@ -499,6 +489,16 @@
       "source": "Dexerto Latest Posts | Call Of Duty",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/05/All-weapon-buffs-and-nerfs-in-Modern-Warfare-4-Warzone-Season-1.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 2
+    },
+    {
+      "id": "264b5d692189b3e7ff97fa8b1d38b666",
+      "title": "Modern Warfare 4 & Warzone Season 1 Update Ver. 1.111 Brings Flood of New Conten",
+      "url": "https://mp1st.com/title-updates-and-patches/modern-warfare-4-warzone-season-1-update-ver-1-111-brings-flood-of-new-conten",
+      "description": "Having trouble viewing the text? You can always read the original article here: Modern Warfare 4 & Warzone Season 1 Update Ver. 1.111 Brings Flood of New Conten This year\u2019s Call of Duty has now entered its first season, and for Warzone players, that means the last-gen versions are now shut down. ...",
+      "published": "Fri, 06 Nov 2026 09:11:17 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/06/gta-6-cover-600x338.jpg",
+      "relevance_score": 3
     }
   ],
   "gta6": [],
