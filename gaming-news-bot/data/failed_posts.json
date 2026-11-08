@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "668cf7dbc53debda0f527f9c41b51ad7",
-      "title": "Code Vein 2 Update 2.002 for September 14 Fixes Quest Progression Issue",
-      "url": "https://mp1st.com/title-updates-and-patches/code-vein-2-update-2-002-for-september-14-fixes-quest-progression-issue",
-      "description": "Having trouble viewing the text? You can always read the original article here: Code Vein 2 Update 2.002 for September 14 Fixes Quest Progression Issue Bandai Namco Entertainment has issued Code Vein 2 update 2.002 on September 14, and given we just received a mighty big update last week, this on...",
-      "published": "Mon, 14 Sep 2026 06:59:19 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/09/The-Last-of-Us-Multiplayer-2-600x338.png",
-      "relevance_score": 1
-    },
-    {
       "id": "df0d66458bd89d627860cc3e0005e603",
       "title": "All weapon buffs and nerfs in Black Ops 7 & Warzone Season 6",
       "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-and-nerfs-in-black-ops-7-warzone-season-6-3409619/",
@@ -499,6 +489,16 @@
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/06/gta-6-cover-600x338.jpg",
       "relevance_score": 3
+    },
+    {
+      "id": "f922fd758c3fa950689ec172e6b7fd62",
+      "title": "Code Violet Update 1.000.029 Adds Quality-of-Life Improvements",
+      "url": "https://mp1st.com/title-updates-and-patches/code-violet-update-1-000-029-adds-quality-of-life-improvements",
+      "description": "Having trouble viewing the text? You can always read the original article here: Code Violet Update 1.000.029 Adds Quality-of-Life Improvements TeamKill Media has released a massive patch for Code Violet this weekend, which improves dinosaur AI, performance, and more. Players will see the download...",
+      "published": "Sun, 08 Nov 2026 03:48:00 +0000",
+      "source": "MP1st",
+      "image": "https://mp1st.com/wp-content/uploads/2026/11/GTA6-piracy-600x338.png",
+      "relevance_score": 1
     }
   ],
   "gta6": [],
