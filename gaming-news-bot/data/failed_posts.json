@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "df0d66458bd89d627860cc3e0005e603",
-      "title": "All weapon buffs and nerfs in Black Ops 7 & Warzone Season 6",
-      "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-and-nerfs-in-black-ops-7-warzone-season-6-3409619/",
-      "description": "Here are all the weapon buffs and nerfs in Black Ops 7 and Warzone Season 6 update.",
-      "published": "Wed, 16 Sep 2026 20:36:53 GMT",
-      "source": "Dexerto Latest Posts | Call Of Duty",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/16/weapon-buffs-nerfs-black-ops-7-warzone-season-6.jpg?width=1080&quality=75&format=auto",
-      "relevance_score": 2
-    },
-    {
       "id": "fe06b9e2ce414260a3a41978b72a1b73",
       "title": "New Warzone Assault Rifle has fastest TTK in the game with no recoil",
       "url": "https://www.dexerto.com/call-of-duty/new-warzone-assault-rifle-has-fastest-ttk-in-the-game-with-no-recoil-3411117/",
@@ -498,6 +488,16 @@
       "published": "Sun, 08 Nov 2026 03:48:00 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/11/GTA6-piracy-600x338.png",
+      "relevance_score": 1
+    },
+    {
+      "id": "310b8f0583ef6a95dac1fc1ee232e80c",
+      "title": "Call of Duty conversation sparks bomb scare forcing plane and airport terminal to evacuate",
+      "url": "https://www.dexerto.com/call-of-duty/call-of-duty-conversation-sparks-bomb-scare-forcing-plane-and-airport-terminal-to-evacuate-3426784/",
+      "description": "A Call of Duty player\u2019s conversation caused a bomb scare at a California airport, forcing passengers to evacuate their plane and part of the terminal.",
+      "published": "Mon, 09 Nov 2026 19:48:33 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/09/call-of-duty-airport-evacuation.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
