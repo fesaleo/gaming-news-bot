@@ -1,16 +1,6 @@
 {
   "cod": [
     {
-      "id": "ef5405dea2fe3b5d1b10abc70d7053ba",
-      "title": "COD Warzone & Black Ops 7 Update 2.06 | 1.108 Released on September 25",
-      "url": "https://mp1st.com/news/cod-warzone-black-ops-7-update-2-06-1-108-released-september-25",
-      "description": "Having trouble viewing the text? You can always read the original article here: COD Warzone & Black Ops 7 Update 2.06 | 1.108 Released on September 25 Activision has pushed out a new Call of Duty update for the app on all platforms, and this is a minor patch that brings fixes to issues more than ...",
-      "published": "Fri, 25 Sep 2026 16:56:40 +0000",
-      "source": "MP1st",
-      "image": "https://mp1st.com/wp-content/uploads/2026/09/GTA-6-Vice_City_Collection-600x338.png",
-      "relevance_score": 4
-    },
-    {
       "id": "ec167c8bd58b4a80233b5b3e292c44ec",
       "title": "COD Warzone & Black Ops 7 Update 2.06 | 1.108 Released on September 25",
       "url": "https://mp1st.com/title-updates-and-patches/cod-warzone-black-ops-7-update-2-06-1-108-released-september-25",
@@ -498,6 +488,16 @@
       "published": "Fri, 20 Nov 2026 19:13:29 +0000",
       "source": "MP1st",
       "image": "https://mp1st.com/wp-content/uploads/2026/11/game-awards-2026-1920x1080-1-600x338.png",
+      "relevance_score": 1
+    },
+    {
+      "id": "92820d9cd624b21f506d714d39ac3319",
+      "title": "The ultimate monitor for CS2 and Valorant: What actually matters?",
+      "url": "https://www.dexerto.com/gaming/the-ultimate-monitor-for-cs2-and-valorant-what-actually-matters-3429900/",
+      "description": "What is the ultimate monitor for competitive shooters like CS2, Valorant or Call of Duty? We explain everything that actually matters.",
+      "published": "Thu, 26 Nov 2026 15:23:59 GMT",
+      "source": "Dexerto Latest Posts | Call Of Duty",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/19/monitor-gigabyte.jpg?width=1080&quality=75&format=auto",
       "relevance_score": 1
     }
   ],
